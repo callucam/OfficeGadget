@@ -1,0 +1,2027 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<records xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <record>
+    <startclock>41323.3333333333</startclock>
+    <endclock>41323.4583333333</endclock>
+    <user>CC</user>
+    <clientnumber>000</clientnumber>
+    <clientname>CMDL</clientname>
+    <projectnumber>001</projectnumber>
+    <projectname>IT</projectname>
+    <task>Holiday</task>
+    <sred>FALSE</sred>
+  </record>
+  <record>
+    <startclock>41323.4583333333</startclock>
+    <endclock>41323.5833333333</endclock>
+    <user>CC</user>
+    <clientnumber>007</clientnumber>
+    <clientname>BC MOTI</clientname>
+    <projectnumber>007</projectnumber>
+    <projectname>UAL</projectname>
+    <task>item1</task>
+    <sred>FALSE</sred>
+  </record>
+  <record>
+    <startclock>41323.5833333333</startclock>
+    <endclock>41323.7083333333</endclock>
+    <user>CC</user>
+    <clientnumber>000</clientnumber>
+    <clientname>CMDL</clientname>
+    <projectnumber>001</projectnumber>
+    <projectname>IT</projectname>
+    <task>Planning of day</task>
+    <sred>FALSE</sred>
+  </record>
+  <record>
+    <startclock>41324.3333333333</startclock>
+    <endclock>41324.4583333333</endclock>
+    <user>CC</user>
+    <clientnumber>007</clientnumber>
+    <clientname>BC MOTI</clientname>
+    <projectnumber>007</projectnumber>
+    <projectname>UAL</projectname>
+    <task>item2</task>
+    <sred>FALSE</sred>
+  </record>
+  <record>
+    <startclock>41324.4583333333</startclock>
+    <endclock>41324.5833333333</endclock>
+    <user>CC</user>
+    <clientnumber>000</clientnumber>
+    <clientname>CMDL</clientname>
+    <projectnumber>001</projectnumber>
+    <projectname>IT</projectname>
+    <task>Preparing response to RRC-12</task>
+    <sred>FALSE</sred>
+  </record>
+  <record>
+    <startclock>41324.5833333333</startclock>
+    <endclock>41324.7083333333</endclock>
+    <user>CC</user>
+    <clientnumber>007</clientnumber>
+    <clientname>BC MOTI</clientname>
+    <projectnumber>007</projectnumber>
+    <projectname>UAL</projectname>
+    <task>item3</task>
+    <sred>FALSE</sred>
+  </record>
+  <record>
+    <startclock>41325.3333333333</startclock>
+    <endclock>41325.4583333333</endclock>
+    <user>CC</user>
+    <clientnumber>000</clientnumber>
+    <clientname>CMDL</clientname>
+    <projectnumber>001</projectnumber>
+    <projectname>IT</projectname>
+    <task>Responding to RRC-12</task>
+    <sred>FALSE</sred>
+  </record>
+  <record>
+    <startclock>41325.4583333333</startclock>
+    <endclock>41325.5833333333</endclock>
+    <user>CC</user>
+    <clientnumber>007</clientnumber>
+    <clientname>BC MOTI</clientname>
+    <projectnumber>007</projectnumber>
+    <projectname>UAL</projectname>
+    <task>item4</task>
+    <sred>FALSE</sred>
+  </record>
+  <record>
+    <startclock>41325.5833333333</startclock>
+    <endclock>41325.7083333333</endclock>
+    <user>CC</user>
+    <clientnumber>000</clientnumber>
+    <clientname>CMDL</clientname>
+    <projectnumber>001</projectnumber>
+    <projectname>IT</projectname>
+    <task>Design Review meeting with Polar and Waterbridge</task>
+    <sred>FALSE</sred>
+  </record>
+  <record>
+    <startclock>41326.3333333333</startclock>
+    <endclock>41326.4583333333</endclock>
+    <user>CC</user>
+    <clientnumber>000</clientnumber>
+    <clientname>CMDL</clientname>
+    <projectnumber>001</projectnumber>
+    <projectname>IT</projectname>
+    <task>Holiday</task>
+    <sred>FALSE</sred>
+  </record>
+  <record>
+    <startclock>41326.4583333333</startclock>
+    <endclock>41326.5833333333</endclock>
+    <user>CC</user>
+    <clientnumber>007</clientnumber>
+    <clientname>BC MOTI</clientname>
+    <projectnumber>007</projectnumber>
+    <projectname>UAL</projectname>
+    <task>Clock-out</task>
+    <sred>FALSE</sred>
+  </record>
+  <record>
+    <startclock>41326.5833333333</startclock>
+    <endclock>41326.7083333333</endclock>
+    <user>CC</user>
+    <clientnumber>000</clientnumber>
+    <clientname>CMDL</clientname>
+    <projectnumber>001</projectnumber>
+    <projectname>IT</projectname>
+    <task>Planning of day</task>
+    <sred>FALSE</sred>
+  </record>
+  <record>
+    <startclock>41326.598295706019</startclock>
+    <endclock>41327.3234920023</endclock>
+    <user>CC</user>
+    <clientnumber>007</clientnumber>
+    <clientname>BC Ministry of Transportation</clientname>
+    <projectnumber>007</projectnumber>
+    <projectname>Upper Arrow Lake Ferry</projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41327.3234920023</startclock>
+    <endclock>41327.3234920023</endclock>
+    <user>CC</user>
+    <clientnumber>007</clientnumber>
+    <clientname>BC Ministry of Transportation</clientname>
+    <projectnumber>007</projectnumber>
+    <projectname>Upper Arrow Lake Ferry</projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41327.3234920023</startclock>
+    <endclock>41327.3234920023</endclock>
+    <user>CC</user>
+    <clientnumber>007</clientnumber>
+    <clientname>BC Ministry of Transportation</clientname>
+    <projectnumber>007</projectnumber>
+    <projectname>Upper Arrow Lake Ferry</projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41327.3234920023</startclock>
+    <endclock>41327.3234920023</endclock>
+    <user>CC</user>
+    <clientnumber>090</clientnumber>
+    <clientname>McNally Aecon</clientname>
+    <projectnumber>001</projectnumber>
+    <projectname>Port Mann Main Water Supply Tunnel</projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41327.3234920023</startclock>
+    <endclock>41327.3234920023</endclock>
+    <user>CC</user>
+    <clientnumber>090</clientnumber>
+    <clientname>McNally Aecon</clientname>
+    <projectnumber>001</projectnumber>
+    <projectname>Port Mann Main Water Supply Tunnel</projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41327.3234920023</startclock>
+    <endclock>41327.3234920023</endclock>
+    <user>CC</user>
+    <clientnumber>007</clientnumber>
+    <clientname>BC Ministry of Transportation</clientname>
+    <projectnumber>007</projectnumber>
+    <projectname>Upper Arrow Lake Ferry</projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41327.3234920023</startclock>
+    <endclock>41327.3234920023</endclock>
+    <user>CC</user>
+    <clientnumber>007</clientnumber>
+    <clientname>BC Ministry of Transportation</clientname>
+    <projectnumber>007</projectnumber>
+    <projectname>Upper Arrow Lake Ferry</projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41327.3234920023</startclock>
+    <endclock>41327.3234920023</endclock>
+    <user>CC</user>
+    <clientnumber>000</clientnumber>
+    <clientname></clientname>
+    <projectnumber>001</projectnumber>
+    <projectname>Troubleshooting telephones</projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41327.3234920023</startclock>
+    <endclock>41327.3234920023</endclock>
+    <user>CC</user>
+    <clientnumber>007</clientnumber>
+    <clientname>BC Ministry of Transportation</clientname>
+    <projectnumber>007</projectnumber>
+    <projectname>Upper Arrow Lake Ferry</projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41327.3234920023</startclock>
+    <endclock>41327.3234920023</endclock>
+    <user>CC</user>
+    <clientnumber>007</clientnumber>
+    <clientname>BC Ministry of Transportation</clientname>
+    <projectnumber>007</projectnumber>
+    <projectname>Upper Arrow Lake Ferry</projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41327.3234920023</startclock>
+    <endclock>41327.3234920023</endclock>
+    <user>CC</user>
+    <clientnumber>007</clientnumber>
+    <clientname>BC Ministry of Transportation</clientname>
+    <projectnumber>007</projectnumber>
+    <projectname>Upper Arrow Lake Ferry</projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41327.3234920023</startclock>
+    <endclock>41327.5179364468</endclock>
+    <user>CC</user>
+    <clientnumber>002</clientnumber>
+    <clientname>RAL</clientname>
+    <projectnumber>005</projectnumber>
+    <projectname>Mark Mulligan Contract Services (October 1-15, 2007)</projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41327.323492002317</startclock>
+    <endclock>41327.5590146644</endclock>
+    <user>CC</user>
+    <clientnumber>002</clientnumber>
+    <clientname>RAL</clientname>
+    <projectnumber>005</projectnumber>
+    <projectname>Mark Mulligan Contract Services (October 1-15, 2007)</projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41327.559014664352</startclock>
+    <endclock>41327.5593053472</endclock>
+    <user>CC</user>
+    <clientnumber>007</clientnumber>
+    <clientname>BC Ministry of Transportation</clientname>
+    <projectnumber>007</projectnumber>
+    <projectname>Upper Arrow Lake Ferry</projectname>
+    <task>bfdgfd</task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41327.559305347226</startclock>
+    <endclock>41328.6037604977</endclock>
+    <user>CC</user>
+    <clientnumber>038</clientnumber>
+    <clientname>Alaska Ship and Drydock</clientname>
+    <projectnumber>001</projectnumber>
+    <projectname>Alaska 22 car ferry</projectname>
+    <task>bfdgfd</task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41328.603760497688</startclock>
+    <endclock>41328.6038010995</endclock>
+    <user>CC</user>
+    <clientnumber>007</clientnumber>
+    <clientname>BC Ministry of Transportation</clientname>
+    <projectnumber>007</projectnumber>
+    <projectname>Upper Arrow Lake Ferry</projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41328.60380109954</startclock>
+    <endclock>41328.6045088889</endclock>
+    <user>CC</user>
+    <clientnumber>007</clientnumber>
+    <clientname>BC Ministry of Transportation</clientname>
+    <projectnumber>007</projectnumber>
+    <projectname>Upper Arrow Lake Ferry</projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41328.604508888886</startclock>
+    <endclock>41328.6242298495</endclock>
+    <user>CC</user>
+    <clientnumber>007</clientnumber>
+    <clientname>BC Ministry of Transportation</clientname>
+    <projectnumber>007</projectnumber>
+    <projectname>Upper Arrow Lake Ferry</projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41328.624229849534</startclock>
+    <endclock>41328.6264281597</endclock>
+    <user>CC</user>
+    <clientnumber>007</clientnumber>
+    <clientname>BC Ministry of Transportation</clientname>
+    <projectnumber>007</projectnumber>
+    <projectname>Upper Arrow Lake Ferry</projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41328.626428159725</startclock>
+    <endclock>41328.636062037</endclock>
+    <user>CC</user>
+    <clientnumber>007</clientnumber>
+    <clientname>BC Ministry of Transportation</clientname>
+    <projectnumber>007</projectnumber>
+    <projectname>Upper Arrow Lake Ferry</projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41328.63606203704</startclock>
+    <endclock>41328.6433584606</endclock>
+    <user>CC</user>
+    <clientnumber>007</clientnumber>
+    <clientname>BC Ministry of Transportation</clientname>
+    <projectnumber>007</projectnumber>
+    <projectname>Upper Arrow Lake Ferry</projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41328.643358460649</startclock>
+    <endclock>41328.6446591782</endclock>
+    <user>CC</user>
+    <clientnumber>007</clientnumber>
+    <clientname>BC Ministry of Transportation</clientname>
+    <projectnumber>007</projectnumber>
+    <projectname>Upper Arrow Lake Ferry</projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41328.644659178244</startclock>
+    <endclock>41328.6481040509</endclock>
+    <user>CC</user>
+    <clientnumber>007</clientnumber>
+    <clientname>BC Ministry of Transportation</clientname>
+    <projectnumber>007</projectnumber>
+    <projectname>Upper Arrow Lake Ferry</projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41328.648104050924</startclock>
+    <endclock>41328.6507734606</endclock>
+    <user>CC</user>
+    <clientnumber>007</clientnumber>
+    <clientname>BC Ministry of Transportation</clientname>
+    <projectnumber>007</projectnumber>
+    <projectname>Upper Arrow Lake Ferry</projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41328.650773460649</startclock>
+    <endclock>41328.689066875</endclock>
+    <user>CC</user>
+    <clientnumber>007</clientnumber>
+    <clientname>BC Ministry of Transportation</clientname>
+    <projectnumber>007</projectnumber>
+    <projectname>Upper Arrow Lake Ferry</projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41328.689066875</startclock>
+    <endclock>41328.6918458102</endclock>
+    <user>CC</user>
+    <clientnumber>007</clientnumber>
+    <clientname>BC Ministry of Transportation</clientname>
+    <projectnumber>007</projectnumber>
+    <projectname>Upper Arrow Lake Ferry</projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41328.691845810186</startclock>
+    <endclock>41328.7010590741</endclock>
+    <user>CC</user>
+    <clientnumber>007</clientnumber>
+    <clientname>BC Ministry of Transportation</clientname>
+    <projectnumber>007</projectnumber>
+    <projectname>Upper Arrow Lake Ferry</projectname>
+    <task>Clock-out</task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41328.701059074076</startclock>
+    <endclock>41328.7027223495</endclock>
+    <user>CC</user>
+    <clientnumber>090</clientnumber>
+    <clientname>McNally Aecon</clientname>
+    <projectnumber>001</projectnumber>
+    <projectname>Port Mann Main Water Supply Tunnel</projectname>
+    <task>ghfh</task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41328.702722349539</startclock>
+    <endclock>41328.720380787</endclock>
+    <user>CC</user>
+    <clientnumber>007</clientnumber>
+    <clientname>BC Ministry of Transportation</clientname>
+    <projectnumber>007</projectnumber>
+    <projectname>Upper Arrow Lake Ferry</projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41328.720380787</startclock>
+    <endclock>41328.720380787</endclock>
+    <user>CC</user>
+    <clientnumber>007</clientnumber>
+    <clientname>BC Ministry of Transportation</clientname>
+    <projectnumber>007</projectnumber>
+    <projectname>Upper Arrow Lake Ferry</projectname>
+    <task>Clock-out</task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41328.720380787</startclock>
+    <endclock>41328.720380787</endclock>
+    <user>CC</user>
+    <clientnumber>090</clientnumber>
+    <clientname>McNally Aecon</clientname>
+    <projectnumber>001</projectnumber>
+    <projectname>Port Mann Main Water Supply Tunnel</projectname>
+    <task>Clock-out</task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41328.720380787</startclock>
+    <endclock>41328.720380787</endclock>
+    <user>CC</user>
+    <clientnumber>090</clientnumber>
+    <clientname>McNally Aecon</clientname>
+    <projectnumber>001</projectnumber>
+    <projectname>Port Mann Main Water Supply Tunnel</projectname>
+    <task>Clock-out</task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41328.720380787</startclock>
+    <endclock>41328.720380787</endclock>
+    <user>CC</user>
+    <clientnumber>090</clientnumber>
+    <clientname>McNally Aecon</clientname>
+    <projectnumber>001</projectnumber>
+    <projectname>Port Mann Main Water Supply Tunnel</projectname>
+    <task>Clock-out</task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41328.720380787</startclock>
+    <endclock>41328.720380787</endclock>
+    <user>CC</user>
+    <clientnumber>090</clientnumber>
+    <clientname>McNally Aecon</clientname>
+    <projectnumber>001</projectnumber>
+    <projectname>Port Mann Main Water Supply Tunnel</projectname>
+    <task>Clock-out</task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41328.720380787</startclock>
+    <endclock>41328.720380787</endclock>
+    <user>CC</user>
+    <clientnumber>007</clientnumber>
+    <clientname>BC Ministry of Transportation</clientname>
+    <projectnumber>007</projectnumber>
+    <projectname>Upper Arrow Lake Ferry</projectname>
+    <task>Clock-out</task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41328.720380787</startclock>
+    <endclock>41328.720380787</endclock>
+    <user>CC</user>
+    <clientnumber>012</clientnumber>
+    <clientname>Dargas Shipping</clientname>
+    <projectnumber>001</projectnumber>
+    <projectname>Hover Barge Powering Study</projectname>
+    <task>Clock-out</task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41328.720380787</startclock>
+    <endclock>41328.720380787</endclock>
+    <user>CC</user>
+    <clientnumber>012</clientnumber>
+    <clientname>Dargas Shipping</clientname>
+    <projectnumber>001</projectnumber>
+    <projectname>Hover Barge Powering Study</projectname>
+    <task>Clock-out</task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41328.720380787</startclock>
+    <endclock>41328.720380787</endclock>
+    <user>CC</user>
+    <clientnumber>012</clientnumber>
+    <clientname>Dargas Shipping</clientname>
+    <projectnumber>001</projectnumber>
+    <projectname>Hover Barge Powering Study</projectname>
+    <task>Clock-out</task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41328.720380787</startclock>
+    <endclock>41328.7204952546</endclock>
+    <user>CC</user>
+    <clientnumber>012</clientnumber>
+    <clientname>Dargas Shipping</clientname>
+    <projectnumber>001</projectnumber>
+    <projectname>Hover Barge Powering Study</projectname>
+    <task>Clock-out</task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41328.720380787039</startclock>
+    <endclock>41328.7204956019</endclock>
+    <user>CC</user>
+    <clientnumber>007</clientnumber>
+    <clientname>BC Ministry of Transportation</clientname>
+    <projectnumber>007</projectnumber>
+    <projectname>Upper Arrow Lake Ferry</projectname>
+    <task>Revising SRED write-ups</task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41328.720495254631</startclock>
+    <endclock>41328.8871622685</endclock>
+    <user>CC</user>
+    <clientnumber>007</clientnumber>
+    <clientname>BC Ministry of Transportation</clientname>
+    <projectnumber>007</projectnumber>
+    <projectname>Upper Arrow Lake Ferry</projectname>
+    <task>Revising SRED write-ups</task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41328.720495601854</startclock>
+    <endclock>41328.9080912269</endclock>
+    <user>CC</user>
+    <clientnumber>007</clientnumber>
+    <clientname>BC Ministry of Transportation</clientname>
+    <projectnumber>007</projectnumber>
+    <projectname>Upper Arrow Lake Ferry</projectname>
+    <task>Revising SRED write-ups</task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41328.908091215279</startclock>
+    <endclock>41329.4200091782</endclock>
+    <user>CC</user>
+    <clientnumber>007</clientnumber>
+    <clientname>BC Ministry of Transportation</clientname>
+    <projectnumber>007</projectnumber>
+    <projectname>Upper Arrow Lake Ferry</projectname>
+    <task>Clock-out</task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41329.42000917824</startclock>
+    <endclock>41329.4202225694</endclock>
+    <user>CC</user>
+    <clientnumber>002</clientnumber>
+    <clientname>RAL</clientname>
+    <projectnumber>003</projectnumber>
+    <projectname>Mackenzie River Yarding Tug for NTCL</projectname>
+    <task>Please Choose or Enter New ...</task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41329.420222569446</startclock>
+    <endclock>41329.4231771412</endclock>
+    <user>CC</user>
+    <clientnumber>007</clientnumber>
+    <clientname>BC Ministry of Transportation</clientname>
+    <projectnumber>004</projectnumber>
+    <projectname>Klondyke Ferry Refit for Alberta Infrastucture and Transportation (AIT)</projectname>
+    <task>Please Choose or Enter New ...</task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41329.4231771412</startclock>
+    <endclock>41329.4344933333</endclock>
+    <user>CC</user>
+    <clientnumber>007</clientnumber>
+    <clientname>BC Ministry of Transportation</clientname>
+    <projectnumber>001</projectnumber>
+    <projectname>Review of BC Ferries' Mid-Coast Ferry Proposals</projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41329.434493333334</startclock>
+    <endclock>41329.4353127778</endclock>
+    <user>CC</user>
+    <clientnumber>007</clientnumber>
+    <clientname>BC Ministry of Transportation</clientname>
+    <projectnumber>007</projectnumber>
+    <projectname>Upper Arrow Lake Ferry</projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41329.435312777779</startclock>
+    <endclock>41329.4358800231</endclock>
+    <user>CC</user>
+    <clientnumber>007</clientnumber>
+    <clientname>BC Ministry of Transportation</clientname>
+    <projectnumber>007</projectnumber>
+    <projectname>Upper Arrow Lake Ferry</projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41329.435880011573</startclock>
+    <endclock>41329.4359425231</endclock>
+    <user>CC</user>
+    <clientnumber>007</clientnumber>
+    <clientname>BC Ministry of Transportation</clientname>
+    <projectnumber>007</projectnumber>
+    <projectname>Upper Arrow Lake Ferry</projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41329.435942523145</startclock>
+    <endclock>41329.43600125</endclock>
+    <user>CC</user>
+    <clientnumber>090</clientnumber>
+    <clientname>McNally Aecon</clientname>
+    <projectnumber>007</projectnumber>
+    <projectname>Upper Arrow Lake Ferry</projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41329.43600125</startclock>
+    <endclock>41329.4360511227</endclock>
+    <user>CC</user>
+    <clientnumber>068</clientnumber>
+    <clientname>Ledcor Marine (ex Pacific Western Navigation Ltd. Partnership)</clientname>
+    <projectnumber>007</projectnumber>
+    <projectname>Upper Arrow Lake Ferry</projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41329.436051122684</startclock>
+    <endclock>41329.4364958681</endclock>
+    <user>CC</user>
+    <clientnumber>000</clientnumber>
+    <clientname></clientname>
+    <projectnumber>001</projectnumber>
+    <projectname>Troubleshooting telephones</projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41329.436495868053</startclock>
+    <endclock>41329.4365576157</endclock>
+    <user>CC</user>
+    <clientnumber>068</clientnumber>
+    <clientname>Ledcor Marine (ex Pacific Western Navigation Ltd. Partnership)</clientname>
+    <projectnumber>Ple</projectnumber>
+    <projectname>se Choose ... </projectname>
+    <task>Please Choose or Enter New ...</task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41329.436557615743</startclock>
+    <endclock>41329.4366015394</endclock>
+    <user>CC</user>
+    <clientnumber>000</clientnumber>
+    <clientname></clientname>
+    <projectnumber>001</projectnumber>
+    <projectname>Troubleshooting telephones</projectname>
+    <task>Please Choose or Enter New ...</task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41329.436601539353</startclock>
+    <endclock>41329.4375441782</endclock>
+    <user>CC</user>
+    <clientnumber>068</clientnumber>
+    <clientname>Ledcor Marine (ex Pacific Western Navigation Ltd. Partnership)</clientname>
+    <projectnumber>001</projectnumber>
+    <projectname>Troubleshooting telephones</projectname>
+    <task>Please Choose or Enter New ...</task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41329.437544178239</startclock>
+    <endclock>41329.4389763542</endclock>
+    <user>CC</user>
+    <clientnumber>010</clientnumber>
+    <clientname>Fraser River Pile and Dredge</clientname>
+    <projectnumber>016</projectnumber>
+    <projectname>GE 6 Lift Chart</projectname>
+    <task>Please Choose or Enter New ...</task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41329.438976354169</startclock>
+    <endclock>41329.4486902778</endclock>
+    <user>CC</user>
+    <clientnumber>010</clientnumber>
+    <clientname>Fraser River Pile and Dredge</clientname>
+    <projectnumber>016</projectnumber>
+    <projectname>GE 6 Lift Chart</projectname>
+    <task>Please Choose or Enter New ...</task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41329.448690277779</startclock>
+    <endclock>41329.4487545255</endclock>
+    <user>CC</user>
+    <clientnumber>007</clientnumber>
+    <clientname>BC Ministry of Transportation</clientname>
+    <projectnumber>007</projectnumber>
+    <projectname>Upper Arrow Lake Ferry</projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41329.44875452546</startclock>
+    <endclock>41329.4488037384</endclock>
+    <user>CC</user>
+    <clientnumber>068</clientnumber>
+    <clientname>Ledcor Marine (ex Pacific Western Navigation Ltd. Partnership)</clientname>
+    <projectnumber>007</projectnumber>
+    <projectname>Upper Arrow Lake Ferry</projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41329.448803738429</startclock>
+    <endclock>41329.4490933102</endclock>
+    <user>CC</user>
+    <clientnumber>000</clientnumber>
+    <clientname></clientname>
+    <projectnumber>001</projectnumber>
+    <projectname>Troubleshooting telephones</projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41329.449093310184</startclock>
+    <endclock>41329.449214838</endclock>
+    <user>CC</user>
+    <clientnumber>001</clientnumber>
+    <clientname>Seabridge</clientname>
+    <projectnumber>001</projectnumber>
+    <projectname>12,500 t DWT Deck Cargo Barge</projectname>
+    <task>Please Choose or Enter New ...</task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41329.449214837965</startclock>
+    <endclock>41329.4492685532</endclock>
+    <user>CC</user>
+    <clientnumber>015</clientnumber>
+    <clientname>Sea Business</clientname>
+    <projectnumber>002</projectnumber>
+    <projectname>Transportation of Esquimault Dock Gates to Point Hope Shipyard for disposal</projectname>
+    <task>Please Choose or Enter New ...</task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41329.449268553239</startclock>
+    <endclock>41329.4492995949</endclock>
+    <user>CC</user>
+    <clientnumber>007</clientnumber>
+    <clientname>BC Ministry of Transportation</clientname>
+    <projectnumber>007</projectnumber>
+    <projectname>Upper Arrow Lake Ferry</projectname>
+    <task>Please Choose or Enter New ...</task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41329.449299594904</startclock>
+    <endclock>41329.4523289699</endclock>
+    <user>CC</user>
+    <clientnumber>068</clientnumber>
+    <clientname>Ledcor Marine (ex Pacific Western Navigation Ltd. Partnership)</clientname>
+    <projectnumber>007</projectnumber>
+    <projectname>Upper Arrow Lake Ferry</projectname>
+    <task>Please Choose or Enter New ...</task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41329.45232895833</startclock>
+    <endclock>41329.4548684722</endclock>
+    <user>CC</user>
+    <clientnumber>007</clientnumber>
+    <clientname>BC Ministry of Transportation</clientname>
+    <projectnumber>007</projectnumber>
+    <projectname>Upper Arrow Lake Ferry</projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41329.454868472225</startclock>
+    <endclock>41329.4549725926</endclock>
+    <user>CC</user>
+    <clientnumber>007</clientnumber>
+    <clientname>BC Ministry of Transportation</clientname>
+    <projectnumber>007</projectnumber>
+    <projectname>Upper Arrow Lake Ferry</projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41329.45497259259</startclock>
+    <endclock>41329.4550626389</endclock>
+    <user>CC</user>
+    <clientnumber>068</clientnumber>
+    <clientname>Ledcor Marine (ex Pacific Western Navigation Ltd. Partnership)</clientname>
+    <projectnumber>007</projectnumber>
+    <projectname>Upper Arrow Lake Ferry</projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41329.455062638888</startclock>
+    <endclock>41329.456028044</endclock>
+    <user>CC</user>
+    <clientnumber>090</clientnumber>
+    <clientname>McNally Aecon</clientname>
+    <projectnumber></projectnumber>
+    <projectname></projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41329.456028043984</startclock>
+    <endclock>41329.456090544</endclock>
+    <user>CC</user>
+    <clientnumber>007</clientnumber>
+    <clientname>BC Ministry of Transportation</clientname>
+    <projectnumber>007</projectnumber>
+    <projectname>Upper Arrow Lake Ferry</projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41329.456090543979</startclock>
+    <endclock>41329.4561473958</endclock>
+    <user>CC</user>
+    <clientnumber>090</clientnumber>
+    <clientname>McNally Aecon</clientname>
+    <projectnumber>???</projectnumber>
+    <projectname>???</projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41329.456147395831</startclock>
+    <endclock>41329.4593059259</endclock>
+    <user>CC</user>
+    <clientnumber>068</clientnumber>
+    <clientname>Ledcor Marine (ex Pacific Western Navigation Ltd. Partnership)</clientname>
+    <projectnumber>???</projectnumber>
+    <projectname>???</projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41329.459305925928</startclock>
+    <endclock>41329.464834838</endclock>
+    <user>CC</user>
+    <clientnumber>007</clientnumber>
+    <clientname>BC Ministry of Transportation</clientname>
+    <projectnumber>???</projectnumber>
+    <projectname>???</projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41329.464834837963</startclock>
+    <endclock>41329.46487</endclock>
+    <user>CC</user>
+    <clientnumber>007</clientnumber>
+    <clientname>BC Ministry of Transportation</clientname>
+    <projectnumber>007</projectnumber>
+    <projectname>Upper Arrow Lake Ferry</projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41329.46487</startclock>
+    <endclock>41329.4649066782</endclock>
+    <user>CC</user>
+    <clientnumber>000</clientnumber>
+    <clientname></clientname>
+    <projectnumber>???</projectnumber>
+    <projectname>???</projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41329.464906678244</startclock>
+    <endclock>41329.4649393287</endclock>
+    <user>CC</user>
+    <clientnumber>090</clientnumber>
+    <clientname>McNally Aecon</clientname>
+    <projectnumber>???</projectnumber>
+    <projectname>???</projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41329.4649393287</startclock>
+    <endclock>41329.4649582407</endclock>
+    <user>CC</user>
+    <clientnumber>068</clientnumber>
+    <clientname>Ledcor Marine (ex Pacific Western Navigation Ltd. Partnership)</clientname>
+    <projectnumber>???</projectnumber>
+    <projectname>???</projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41329.464958240744</startclock>
+    <endclock>41329.4649831482</endclock>
+    <user>CC</user>
+    <clientnumber>068</clientnumber>
+    <clientname>Ledcor Marine (ex Pacific Western Navigation Ltd. Partnership)</clientname>
+    <projectnumber>???</projectnumber>
+    <projectname>???</projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41329.464983148151</startclock>
+    <endclock>41329.4666665162</endclock>
+    <user>CC</user>
+    <clientnumber>000</clientnumber>
+    <clientname></clientname>
+    <projectnumber>001</projectnumber>
+    <projectname>Troubleshooting telephones</projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41329.4666665162</startclock>
+    <endclock>41329.4670885532</endclock>
+    <user>CC</user>
+    <clientnumber>007</clientnumber>
+    <clientname>BC Ministry of Transportation</clientname>
+    <projectnumber />
+    <projectname />
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41329.46708855324</startclock>
+    <endclock>41329.4700314352</endclock>
+    <user>CC</user>
+    <clientnumber>007</clientnumber>
+    <clientname>BC Ministry of Transportation</clientname>
+    <projectnumber>007</projectnumber>
+    <projectname>Upper Arrow Lake Ferry</projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41329.470031435187</startclock>
+    <endclock>41329.4700866551</endclock>
+    <user>CC</user>
+    <clientnumber>007</clientnumber>
+    <clientname>BC Ministry of Transportation</clientname>
+    <projectnumber></projectnumber>
+    <projectname>Upper Arrow Lake Ferry</projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41329.470086655092</startclock>
+    <endclock>41329.4701113657</endclock>
+    <user>CC</user>
+    <clientnumber>000</clientnumber>
+    <clientname></clientname>
+    <projectnumber></projectnumber>
+    <projectname></projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41329.470111365743</startclock>
+    <endclock>41329.4701498148</endclock>
+    <user>CC</user>
+    <clientnumber>068</clientnumber>
+    <clientname>Ledcor Marine (ex Pacific Western Navigation Ltd. Partnership)</clientname>
+    <projectnumber></projectnumber>
+    <projectname></projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41329.470149814813</startclock>
+    <endclock>41329.4707143056</endclock>
+    <user>CC</user>
+    <clientnumber>000</clientnumber>
+    <clientname></clientname>
+    <projectnumber></projectnumber>
+    <projectname>Troubleshooting telephones</projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41329.470714305557</startclock>
+    <endclock>41329.4708165972</endclock>
+    <user>CC</user>
+    <clientnumber>007</clientnumber>
+    <clientname>BC Ministry of Transportation</clientname>
+    <projectnumber>007</projectnumber>
+    <projectname>Upper Arrow Lake Ferry</projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41329.470816597219</startclock>
+    <endclock>41329.4708937037</endclock>
+    <user>CC</user>
+    <clientnumber>007</clientnumber>
+    <clientname>BC Ministry of Transportation</clientname>
+    <projectnumber>007</projectnumber>
+    <projectname>Upper Arrow Lake Ferry</projectname>
+    <task>item4</task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41329.470893703707</startclock>
+    <endclock>41329.4709877546</endclock>
+    <user>CC</user>
+    <clientnumber>000</clientnumber>
+    <clientname></clientname>
+    <projectnumber>000</projectnumber>
+    <projectname></projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41329.470987754627</startclock>
+    <endclock>41329.4711301505</endclock>
+    <user>CC</user>
+    <clientnumber>090</clientnumber>
+    <clientname>McNally Aecon</clientname>
+    <projectnumber>002</projectnumber>
+    <projectname></projectname>
+    <task>here</task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41329.471130150465</startclock>
+    <endclock>41329.4712487037</endclock>
+    <user>CC</user>
+    <clientnumber>068</clientnumber>
+    <clientname>Ledcor Marine (ex Pacific Western Navigation Ltd. Partnership)</clientname>
+    <projectnumber>008</projectnumber>
+    <projectname></projectname>
+    <task>here068008</task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41329.4712487037</startclock>
+    <endclock>41329.4736395718</endclock>
+    <user>CC</user>
+    <clientnumber>000</clientnumber>
+    <clientname></clientname>
+    <projectnumber>001</projectnumber>
+    <projectname>Troubleshooting telephones</projectname>
+    <task>000001 telephones</task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41329.473639571763</startclock>
+    <endclock>41329.4737099074</endclock>
+    <user>CC</user>
+    <clientnumber>007</clientnumber>
+    <clientname>BC Ministry of Transportation</clientname>
+    <projectnumber>007</projectnumber>
+    <projectname>Upper Arrow Lake Ferry</projectname>
+    <task>Revising SRED write-ups</task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41329.473709907405</startclock>
+    <endclock>41329.4738009028</endclock>
+    <user>CC</user>
+    <clientnumber>007</clientnumber>
+    <clientname>BC Ministry of Transportation</clientname>
+    <projectnumber>007</projectnumber>
+    <projectname>Upper Arrow Lake Ferry</projectname>
+    <task>Revising SRED write-ups</task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41329.473800902779</startclock>
+    <endclock>41329.4738299306</endclock>
+    <user>CC</user>
+    <clientnumber>007</clientnumber>
+    <clientname>BC Ministry of Transportation</clientname>
+    <projectnumber>007</projectnumber>
+    <projectname>Upper Arrow Lake Ferry</projectname>
+    <task>item4</task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41329.473829930554</startclock>
+    <endclock>41329.4738851852</endclock>
+    <user>CC</user>
+    <clientnumber>007</clientnumber>
+    <clientname>BC Ministry of Transportation</clientname>
+    <projectnumber>007</projectnumber>
+    <projectname>Upper Arrow Lake Ferry</projectname>
+    <task>item4</task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41329.473885185187</startclock>
+    <endclock>41329.4739027431</endclock>
+    <user>CC</user>
+    <clientnumber>007</clientnumber>
+    <clientname>BC Ministry of Transportation</clientname>
+    <projectnumber>007</projectnumber>
+    <projectname>Upper Arrow Lake Ferry</projectname>
+    <task>Revising SRED write-ups</task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41329.473902743055</startclock>
+    <endclock>41329.4740889352</endclock>
+    <user>CC</user>
+    <clientnumber>007</clientnumber>
+    <clientname>BC Ministry of Transportation</clientname>
+    <projectnumber>007</projectnumber>
+    <projectname>Upper Arrow Lake Ferry</projectname>
+    <task>Revising SRED write-ups</task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41329.474088935189</startclock>
+    <endclock>41329.4741931134</endclock>
+    <user>CC</user>
+    <clientnumber>000</clientnumber>
+    <clientname></clientname>
+    <projectnumber>000</projectnumber>
+    <projectname></projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41329.474193113427</startclock>
+    <endclock>41329.4742635995</endclock>
+    <user>CC</user>
+    <clientnumber>000</clientnumber>
+    <clientname></clientname>
+    <projectnumber>000</projectnumber>
+    <projectname></projectname>
+    <task>000-000 here</task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41329.474263599535</startclock>
+    <endclock>41329.4744624884</endclock>
+    <user>CC</user>
+    <clientnumber>000</clientnumber>
+    <clientname></clientname>
+    <projectnumber>000</projectnumber>
+    <projectname></projectname>
+    <task>000-000 here2</task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41329.474462488426</startclock>
+    <endclock>41329.4758916088</endclock>
+    <user>CC</user>
+    <clientnumber>000</clientnumber>
+    <clientname></clientname>
+    <projectnumber>000</projectnumber>
+    <projectname></projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41329.475891608796</startclock>
+    <endclock>41329.4760116782</endclock>
+    <user>CC</user>
+    <clientnumber>007</clientnumber>
+    <clientname>BC Ministry of Transportation</clientname>
+    <projectnumber>007</projectnumber>
+    <projectname>Upper Arrow Lake Ferry</projectname>
+    <task>007007 work</task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41329.476011678242</startclock>
+    <endclock>41329.4761099074</endclock>
+    <user>CC</user>
+    <clientnumber>000</clientnumber>
+    <clientname></clientname>
+    <projectnumber>000</projectnumber>
+    <projectname></projectname>
+    <task>000-000 work</task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41329.476109907409</startclock>
+    <endclock>41329.476221713</endclock>
+    <user>CC</user>
+    <clientnumber>090</clientnumber>
+    <clientname>McNally Aecon</clientname>
+    <projectnumber>002</projectnumber>
+    <projectname></projectname>
+    <task>000-000 work</task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41329.476221712961</startclock>
+    <endclock>41329.4762466551</endclock>
+    <user>CC</user>
+    <clientnumber>068</clientnumber>
+    <clientname>Ledcor Marine (ex Pacific Western Navigation Ltd. Partnership)</clientname>
+    <projectnumber>008</projectnumber>
+    <projectname></projectname>
+    <task>068-008 work</task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41329.476246655089</startclock>
+    <endclock>41329.4762803009</endclock>
+    <user>CC</user>
+    <clientnumber>068</clientnumber>
+    <clientname>Ledcor Marine (ex Pacific Western Navigation Ltd. Partnership)</clientname>
+    <projectnumber>008</projectnumber>
+    <projectname></projectname>
+    <task>068-008 work</task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41329.476280300929</startclock>
+    <endclock>41329.4764178935</endclock>
+    <user>CC</user>
+    <clientnumber>068</clientnumber>
+    <clientname>Ledcor Marine (ex Pacific Western Navigation Ltd. Partnership)</clientname>
+    <projectnumber>008</projectnumber>
+    <projectname></projectname>
+    <task>068-008 work</task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41329.476417893522</startclock>
+    <endclock>41329.4765503588</endclock>
+    <user>CC</user>
+    <clientnumber>000</clientnumber>
+    <clientname></clientname>
+    <projectnumber>001</projectnumber>
+    <projectname>Troubleshooting telephones</projectname>
+    <task>000-001 work</task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41329.4765503588</startclock>
+    <endclock>41329.4768011921</endclock>
+    <user>CC</user>
+    <clientnumber>007</clientnumber>
+    <clientname>BC Ministry of Transportation</clientname>
+    <projectnumber>007</projectnumber>
+    <projectname>Upper Arrow Lake Ferry</projectname>
+    <task>007007 work</task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41329.476801192126</startclock>
+    <endclock>41329.4828960301</endclock>
+    <user>CC</user>
+    <clientnumber>068</clientnumber>
+    <clientname>Ledcor Marine (ex Pacific Western Navigation Ltd. Partnership)</clientname>
+    <projectnumber>008</projectnumber>
+    <projectname></projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41329.482896030095</startclock>
+    <endclock>41329.4838194907</endclock>
+    <user>CC</user>
+    <clientnumber>007</clientnumber>
+    <clientname>BC Ministry of Transportation</clientname>
+    <projectnumber>007</projectnumber>
+    <projectname>Upper Arrow Lake Ferry</projectname>
+    <task>1135</task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41329.483819490742</startclock>
+    <endclock>41329.4839695255</endclock>
+    <user>CC</user>
+    <clientnumber>007</clientnumber>
+    <clientname>BC Ministry of Transportation</clientname>
+    <projectnumber>007</projectnumber>
+    <projectname>Upper Arrow Lake Ferry</projectname>
+    <task>1136</task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41329.483969525463</startclock>
+    <endclock>41329.4840035995</endclock>
+    <user>CC</user>
+    <clientnumber>090</clientnumber>
+    <clientname>McNally Aecon</clientname>
+    <projectnumber>002</projectnumber>
+    <projectname></projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41329.484003599537</startclock>
+    <endclock>41329.4840346412</endclock>
+    <user>CC</user>
+    <clientnumber>068</clientnumber>
+    <clientname>Ledcor Marine (ex Pacific Western Navigation Ltd. Partnership)</clientname>
+    <projectnumber>008</projectnumber>
+    <projectname></projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41329.4840346412</startclock>
+    <endclock>41329.4841685417</endclock>
+    <user>CC</user>
+    <clientnumber>000</clientnumber>
+    <clientname></clientname>
+    <projectnumber>001</projectnumber>
+    <projectname>Troubleshooting telephones</projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41329.484168530093</startclock>
+    <endclock>41329.4842699421</endclock>
+    <user>CC</user>
+    <clientnumber>000</clientnumber>
+    <clientname></clientname>
+    <projectnumber>001</projectnumber>
+    <projectname>Troubleshooting telephones</projectname>
+    <task>1137</task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41329.484269942128</startclock>
+    <endclock>41329.5613702894</endclock>
+    <user>CC</user>
+    <clientnumber>000</clientnumber>
+    <clientname></clientname>
+    <projectnumber>001</projectnumber>
+    <projectname>Troubleshooting telephones</projectname>
+    <task>1137</task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41329.561370289353</startclock>
+    <endclock>41329.5614210185</endclock>
+    <user>CC</user>
+    <clientnumber>007</clientnumber>
+    <clientname>BC Ministry of Transportation</clientname>
+    <projectnumber>007</projectnumber>
+    <projectname>Upper Arrow Lake Ferry</projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41329.561421018516</startclock>
+    <endclock>41329.5614678704</endclock>
+    <user>CC</user>
+    <clientnumber>000</clientnumber>
+    <clientname></clientname>
+    <projectnumber>000</projectnumber>
+    <projectname></projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41329.561467870371</startclock>
+    <endclock>41329.5615777083</endclock>
+    <user>CC</user>
+    <clientnumber>068</clientnumber>
+    <clientname>Ledcor Marine (ex Pacific Western Navigation Ltd. Partnership)</clientname>
+    <projectnumber>008</projectnumber>
+    <projectname></projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41329.561577708337</startclock>
+    <endclock>41329.5617961343</endclock>
+    <user>CC</user>
+    <clientnumber>068</clientnumber>
+    <clientname>Ledcor Marine (ex Pacific Western Navigation Ltd. Partnership)</clientname>
+    <projectnumber>008</projectnumber>
+    <projectname></projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41329.561796134258</startclock>
+    <endclock>41330.3184952083</endclock>
+    <user>CC</user>
+    <clientnumber>090</clientnumber>
+    <clientname>McNally Aecon</clientname>
+    <projectnumber>002</projectnumber>
+    <projectname></projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41330.318495208332</startclock>
+    <endclock>41330.321618588</endclock>
+    <user>CC</user>
+    <clientnumber>007</clientnumber>
+    <clientname>BC Ministry of Transportation</clientname>
+    <projectnumber>007</projectnumber>
+    <projectname>Upper Arrow Lake Ferry</projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41330.321618587965</startclock>
+    <endclock>41330.3257813773</endclock>
+    <user>CC</user>
+    <clientnumber>007</clientnumber>
+    <clientname>BC Ministry of Transportation</clientname>
+    <projectnumber>007</projectnumber>
+    <projectname>Upper Arrow Lake Ferry</projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41330.325781377316</startclock>
+    <endclock>41330.3319963079</endclock>
+    <user>CC</user>
+    <clientnumber>007</clientnumber>
+    <clientname>BC Ministry of Transportation</clientname>
+    <projectnumber>007</projectnumber>
+    <projectname>Upper Arrow Lake Ferry</projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41330.331996307868</startclock>
+    <endclock>41330.3320149074</endclock>
+    <user>rw</user>
+    <clientnumber></clientnumber>
+    <clientname></clientname>
+    <projectnumber></projectnumber>
+    <projectname></projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41330.332014907406</startclock>
+    <endclock>41330.4430922106</endclock>
+    <user>rw</user>
+    <clientnumber></clientnumber>
+    <clientname></clientname>
+    <projectnumber></projectnumber>
+    <projectname></projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41330.443092210648</startclock>
+    <endclock>41330.4790877894</endclock>
+    <user>CC</user>
+    <clientnumber>000</clientnumber>
+    <clientname></clientname>
+    <projectnumber>001</projectnumber>
+    <projectname>Troubleshooting telephones</projectname>
+    <task>Planning of day</task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41330.479087789354</startclock>
+    <endclock>41330.5080548611</endclock>
+    <user>CC</user>
+    <clientnumber>090</clientnumber>
+    <clientname>McNally Aecon</clientname>
+    <projectnumber>002</projectnumber>
+    <projectname></projectname>
+    <task>Review of north shaft structure and stability</task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41330.508054861108</startclock>
+    <endclock>41330.5080928819</endclock>
+    <user>CC</user>
+    <clientnumber>090</clientnumber>
+    <clientname>McNally Aecon</clientname>
+    <projectnumber>002</projectnumber>
+    <projectname></projectname>
+    <task>Review of north shaft structure and stability</task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41330.508092881944</startclock>
+    <endclock>41330.5302157986</endclock>
+    <user>CC</user>
+    <clientnumber>090</clientnumber>
+    <clientname>McNally Aecon</clientname>
+    <projectnumber>002</projectnumber>
+    <projectname></projectname>
+    <task>Review of north shaft structure and stability</task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41330.530215798608</startclock>
+    <endclock>41330.5904387963</endclock>
+    <user>CC</user>
+    <clientnumber>090</clientnumber>
+    <clientname>McNally Aecon</clientname>
+    <projectnumber>002</projectnumber>
+    <projectname></projectname>
+    <task>Review of north shaft structure and stability</task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41330.590438796295</startclock>
+    <endclock>41330.5909717477</endclock>
+    <user>CC</user>
+    <clientnumber>000</clientnumber>
+    <clientname></clientname>
+    <projectnumber>001</projectnumber>
+    <projectname>Troubleshooting telephones</projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41330.590971747682</startclock>
+    <endclock>41330.6054181366</endclock>
+    <user>CC</user>
+    <clientnumber>007</clientnumber>
+    <clientname>BC Ministry of Transportation</clientname>
+    <projectnumber>007</projectnumber>
+    <projectname>Upper Arrow Lake Ferry</projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41330.605418136576</startclock>
+    <endclock>41330.6463046181</endclock>
+    <user>CC</user>
+    <clientnumber>000</clientnumber>
+    <clientname></clientname>
+    <projectnumber>001</projectnumber>
+    <projectname>Troubleshooting telephones</projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41330.646304618058</startclock>
+    <endclock>41330.6619371644</endclock>
+    <user>CC</user>
+    <clientnumber>000</clientnumber>
+    <clientname></clientname>
+    <projectnumber>001</projectnumber>
+    <projectname>Troubleshooting telephones</projectname>
+    <task>Writing up poject review notes</task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41330.661937164354</startclock>
+    <endclock>41330.6764289005</endclock>
+    <user>CC</user>
+    <clientnumber>090</clientnumber>
+    <clientname>McNally Aecon</clientname>
+    <projectnumber>002</projectnumber>
+    <projectname></projectname>
+    <task>Checking drawings; checking stability; issuing drawings</task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41330.676428900464</startclock>
+    <endclock>41330.7066333796</endclock>
+    <user>CC</user>
+    <clientnumber>000</clientnumber>
+    <clientname></clientname>
+    <projectnumber>001</projectnumber>
+    <projectname>Troubleshooting telephones</projectname>
+    <task>Writing up poject review notes</task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41330.706633379632</startclock>
+    <endclock>41330.7306821296</endclock>
+    <user>CC</user>
+    <clientnumber>007</clientnumber>
+    <clientname>BC Ministry of Transportation</clientname>
+    <projectnumber>007</projectnumber>
+    <projectname>Upper Arrow Lake Ferry</projectname>
+    <task>Researching load line regulations</task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41330.73068212963</startclock>
+    <endclock>41330.7307288657</endclock>
+    <user>CC</user>
+    <clientnumber>000</clientnumber>
+    <clientname></clientname>
+    <projectnumber>001</projectnumber>
+    <projectname>Troubleshooting telephones</projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41330.730728865739</startclock>
+    <endclock>41330.7307395949</endclock>
+    <user>CC</user>
+    <clientnumber>000</clientnumber>
+    <clientname></clientname>
+    <projectnumber>001</projectnumber>
+    <projectname>Troubleshooting telephones</projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41330.73073959491</startclock>
+    <endclock>41330.7307480324</endclock>
+    <user>CC</user>
+    <clientnumber>000</clientnumber>
+    <clientname></clientname>
+    <projectnumber>001</projectnumber>
+    <projectname>Troubleshooting telephones</projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41330.730748032409</startclock>
+    <endclock>41330.7307563657</endclock>
+    <user>CC</user>
+    <clientnumber>000</clientnumber>
+    <clientname></clientname>
+    <projectnumber>001</projectnumber>
+    <projectname>Troubleshooting telephones</projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41330.730756365738</startclock>
+    <endclock>41330.7307658218</endclock>
+    <user>CC</user>
+    <clientnumber>000</clientnumber>
+    <clientname></clientname>
+    <projectnumber>001</projectnumber>
+    <projectname>Troubleshooting telephones</projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41330.730765821761</startclock>
+    <endclock>41331.3257497685</endclock>
+    <user>CC</user>
+    <clientnumber>000</clientnumber>
+    <clientname></clientname>
+    <projectnumber>001</projectnumber>
+    <projectname>Troubleshooting telephones</projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41331.325749768519</startclock>
+    <endclock>41331.3871434954</endclock>
+    <user>CC</user>
+    <clientnumber>000</clientnumber>
+    <clientname></clientname>
+    <projectnumber>001</projectnumber>
+    <projectname>Troubleshooting telephones</projectname>
+    <task>Planning of day</task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41331.387143495369</startclock>
+    <endclock>41331.3872963426</endclock>
+    <user>CC</user>
+    <clientnumber>007</clientnumber>
+    <clientname>BC Ministry of Transportation</clientname>
+    <projectnumber>007</projectnumber>
+    <projectname>Upper Arrow Lake Ferry</projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41331.387296342589</startclock>
+    <endclock>41331.3873675</endclock>
+    <user>CC</user>
+    <clientnumber>038</clientnumber>
+    <clientname>Alaska Ship and Drydock</clientname>
+    <projectnumber>001</projectnumber>
+    <projectname>Alaska 22 car ferry</projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41331.3873675</startclock>
+    <endclock>41331.3874026736</endclock>
+    <user>CC</user>
+    <clientnumber>001</clientnumber>
+    <clientname>Seabridge</clientname>
+    <projectnumber>002</projectnumber>
+    <projectname>12,000 t DWT Deck Cargo ATB Barge</projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41331.387402673608</startclock>
+    <endclock>41331.3874458565</endclock>
+    <user>CC</user>
+    <clientnumber>090</clientnumber>
+    <clientname>McNally Aecon</clientname>
+    <projectnumber>001</projectnumber>
+    <projectname>Port Mann Main Water Supply Tunnel</projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41331.387445856482</startclock>
+    <endclock>41331.3874745255</endclock>
+    <user>CC</user>
+    <clientnumber>000</clientnumber>
+    <clientname></clientname>
+    <projectnumber>001</projectnumber>
+    <projectname>Troubleshooting telephones</projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41331.387474525465</startclock>
+    <endclock>41331.3876050694</endclock>
+    <user>CC</user>
+    <clientnumber>007</clientnumber>
+    <clientname>BC Ministry of Transportation</clientname>
+    <projectnumber>007</projectnumber>
+    <projectname>Upper Arrow Lake Ferry</projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41331.387605069445</startclock>
+    <endclock>41331.4180795139</endclock>
+    <user>CC</user>
+    <clientnumber>007</clientnumber>
+    <clientname>BC Ministry of Transportation</clientname>
+    <projectnumber>007</projectnumber>
+    <projectname>Upper Arrow Lake Ferry</projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41331.418079513889</startclock>
+    <endclock>41331.5901619444</endclock>
+    <user>CC</user>
+    <clientnumber>000</clientnumber>
+    <clientname></clientname>
+    <projectnumber>001</projectnumber>
+    <projectname>Troubleshooting telephones</projectname>
+    <task>Reviewing BCFS RFP</task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41331.590161944441</startclock>
+    <endclock>41331.5902318981</endclock>
+    <user>CC</user>
+    <clientnumber>007</clientnumber>
+    <clientname>BC Ministry of Transportation</clientname>
+    <projectnumber>007</projectnumber>
+    <projectname>Upper Arrow Lake Ferry</projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41331.590231898146</startclock>
+    <endclock>41331.6412504861</endclock>
+    <user>CC</user>
+    <clientnumber>000</clientnumber>
+    <clientname></clientname>
+    <projectnumber>001</projectnumber>
+    <projectname>Troubleshooting telephones</projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41331.641250486115</startclock>
+    <endclock>41332.322884456</endclock>
+    <user>CC</user>
+    <clientnumber>007</clientnumber>
+    <clientname>BC Ministry of Transportation</clientname>
+    <projectnumber>007</projectnumber>
+    <projectname>Upper Arrow Lake Ferry</projectname>
+    <task>Preparing DR-131</task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41332.322884456022</startclock>
+    <endclock>41332.4549350694</endclock>
+    <user>CC</user>
+    <clientnumber>000</clientnumber>
+    <clientname></clientname>
+    <projectnumber>001</projectnumber>
+    <projectname>Troubleshooting telephones</projectname>
+    <task>Planning of day</task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41332.454935069443</startclock>
+    <endclock>41332.4561811574</endclock>
+    <user>CC</user>
+    <clientnumber>007</clientnumber>
+    <clientname>BC Ministry of Transportation</clientname>
+    <projectnumber>007</projectnumber>
+    <projectname>Upper Arrow Lake Ferry</projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41332.456181157409</startclock>
+    <endclock>41332.4939439583</endclock>
+    <user>CC</user>
+    <clientnumber>038</clientnumber>
+    <clientname>Alaska Ship and Drydock</clientname>
+    <projectnumber>001</projectnumber>
+    <projectname>Alaska 22 car ferry</projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41332.493943958332</startclock>
+    <endclock>41332.5023696181</endclock>
+    <user>CC</user>
+    <clientnumber>000</clientnumber>
+    <clientname></clientname>
+    <projectnumber>001</projectnumber>
+    <projectname>Troubleshooting telephones</projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41332.502369618058</startclock>
+    <endclock>41332.502413831</endclock>
+    <user>CC</user>
+    <clientnumber>000</clientnumber>
+    <clientname></clientname>
+    <projectnumber>001</projectnumber>
+    <projectname>Troubleshooting telephones</projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41332.502413831018</startclock>
+    <endclock>41332.5024653241</endclock>
+    <user>CC</user>
+    <clientnumber>068</clientnumber>
+    <clientname>Ledcor Marine (ex Pacific Western Navigation Ltd. Partnership)</clientname>
+    <projectnumber>001</projectnumber>
+    <projectname>12 Wood-Chip Barges</projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41332.502465324076</startclock>
+    <endclock>41332.5029499769</endclock>
+    <user>CC</user>
+    <clientnumber>000</clientnumber>
+    <clientname></clientname>
+    <projectnumber>001</projectnumber>
+    <projectname>Troubleshooting telephones</projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41332.50294997685</startclock>
+    <endclock>41332.5029877315</endclock>
+    <user>CC</user>
+    <clientnumber>000</clientnumber>
+    <clientname></clientname>
+    <projectnumber>001</projectnumber>
+    <projectname>Troubleshooting telephones</projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41332.502987731481</startclock>
+    <endclock>41332.5030273148</endclock>
+    <user>CC</user>
+    <clientnumber>038</clientnumber>
+    <clientname>Alaska Ship and Drydock</clientname>
+    <projectnumber>001</projectnumber>
+    <projectname>Alaska 22 car ferry</projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41332.503027314815</startclock>
+    <endclock>41332.5223217593</endclock>
+    <user>CC</user>
+    <clientnumber>068</clientnumber>
+    <clientname>Ledcor Marine (ex Pacific Western Navigation Ltd. Partnership)</clientname>
+    <projectnumber>001</projectnumber>
+    <projectname>12 Wood-Chip Barges</projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41332.522321759257</startclock>
+    <endclock>41332.564131331</endclock>
+    <user>CC</user>
+    <clientnumber>000</clientnumber>
+    <clientname></clientname>
+    <projectnumber>001</projectnumber>
+    <projectname>Troubleshooting telephones</projectname>
+    <task>SRED</task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41332.564131331019</startclock>
+    <endclock>41332.5655452315</endclock>
+    <user>CC</user>
+    <clientnumber>007</clientnumber>
+    <clientname>BC Ministry of Transportation</clientname>
+    <projectnumber>007</projectnumber>
+    <projectname>Upper Arrow Lake Ferry</projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41332.565545231482</startclock>
+    <endclock>41332.5662718171</endclock>
+    <user>CC</user>
+    <clientnumber>007</clientnumber>
+    <clientname>BC Ministry of Transportation</clientname>
+    <projectnumber>007</projectnumber>
+    <projectname>Upper Arrow Lake Ferry</projectname>
+    <task></task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41332.56627181713</startclock>
+    <endclock>41332.6</endclock>
+    <user>CC</user>
+    <clientnumber>090</clientnumber>
+    <clientname>McNally Aecon</clientname>
+    <projectnumber>002</projectnumber>
+    <projectname></projectname>
+    <task>issuing drawings</task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41333.25</startclock>
+    <endclock>41334.3459382523</endclock>
+    <user>CC</user>
+    <clientnumber>007</clientnumber>
+    <clientname>BC Ministry of Transportation</clientname>
+    <projectnumber>007</projectnumber>
+    <projectname>Upper Arrow Lake Ferry</projectname>
+    <task>Site Visit</task>
+    <sred>false</sred>
+  </record>
+  <record>
+    <startclock>41334.345938240738</startclock>
+    <endclock>41334.345938240738</endclock>
+    <user>RW</user>
+    <clientnumber>000</clientnumber>
+    <clientname></clientname>
+    <projectnumber>001</projectnumber>
+    <projectname>Troubleshooting telephones</projectname>
+    <task>Planning of day</task>
+    <sred>false</sred>
+  </record>
+</records>

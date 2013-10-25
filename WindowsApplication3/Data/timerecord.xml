@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<records xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <record>
+    <startclock>41334.345938240738</startclock>
+    <endclock>41334.345938240738</endclock>
+    <user>RW</user>
+    <clientnumber>000</clientnumber>
+    <clientname></clientname>
+    <projectnumber>001</projectnumber>
+    <projectname>Troubleshooting telephones</projectname>
+    <task>Planning of day</task>
+    <sred>false</sred>
+  </record>
+</records>

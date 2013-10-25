@@ -1,0 +1,39 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="FirstName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Generic</Value>
+    </Setting>
+    <Setting Name="LastName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">User</Value>
+    </Setting>
+    <Setting Name="Initials" Type="System.String" Scope="User">
+      <Value Profile="(Default)">GU</Value>
+    </Setting>
+    <Setting Name="FavOne" Type="System.String" Scope="User">
+      <Value Profile="(Default)">000-001</Value>
+    </Setting>
+    <Setting Name="FavTwo" Type="System.String" Scope="User">
+      <Value Profile="(Default)">007-007</Value>
+    </Setting>
+    <Setting Name="FavThree" Type="System.String" Scope="User">
+      <Value Profile="(Default)">038-001</Value>
+    </Setting>
+    <Setting Name="FavFour" Type="System.String" Scope="User">
+      <Value Profile="(Default)">090-001</Value>
+    </Setting>
+    <Setting Name="FavFive" Type="System.String" Scope="User">
+      <Value Profile="(Default)">068-001</Value>
+    </Setting>
+    <Setting Name="SetupRequired" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="InputDataFolder" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Gadget\Input</Value>
+    </Setting>
+    <Setting Name="OutputDataFolder" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Gadget\Output</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

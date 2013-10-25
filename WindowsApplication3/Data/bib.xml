@@ -1,0 +1,1622 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<bib>
+  <client recordnumber="000">
+    <clientnumber>000</clientnumber>
+    <clientname></clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>Troubleshooting telephones</projectname>
+    </project>
+    <project>
+      <projectnumber>002</projectnumber>
+      <projectname>Ansys training</projectname>
+    </project>
+    <project>
+      <projectnumber>003</projectnumber>
+      <projectname>Website</projectname>
+    </project>
+    <project>
+      <projectnumber>004</projectnumber>
+      <projectname>Various IT Projects</projectname>
+    </project>
+    <project>
+      <projectnumber>004</projectnumber>
+      <projectname>Ferry conference presentation</projectname>
+    </project>
+    <project>
+      <projectnumber>006</projectnumber>
+      <projectname>Office renos</projectname>
+    </project>
+    <project>
+      <projectnumber>007</projectnumber>
+      <projectname>ShipFare Tariff Software</projectname>
+    </project>
+    <project>
+      <projectnumber>008</projectnumber>
+      <projectname>Potential opportunities</projectname>
+    </project>
+    <project>
+      <projectnumber>009</projectnumber>
+      <projectname>SRED Credits</projectname>
+    </project>
+    <project>
+      <projectnumber>010</projectnumber>
+      <projectname>38m Tug</projectname>
+    </project>
+  </client>
+  <client recordnumber="001">
+    <clientnumber>001</clientnumber>
+    <clientname>Seabridge</clientname>
+    <project>
+      <projectnumber>000</projectnumber>
+      <projectname>6,100 DWT Heavy Deck Barge (Sea to Sky Project)</projectname>
+    </project>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>12,500 t DWT Deck Cargo Barge</projectname>
+    </project>
+    <project>
+      <projectnumber>002</projectnumber>
+      <projectname>12,000 t DWT Deck Cargo ATB Barge</projectname>
+    </project>
+    <project>
+      <projectnumber>003</projectnumber>
+      <projectname>BOABARGE 29 - Bulwark Arrangement Structural Details</projectname>
+    </project>
+    <project>
+      <projectnumber>004</projectnumber>
+      <projectname>80m Heavy Deck Barge</projectname>
+    </project>
+    <project>
+      <projectnumber>005</projectnumber>
+      <projectname>101m Heavy Deck Barge</projectname>
+    </project>
+    <project>
+      <projectnumber>006</projectnumber>
+      <projectname>Installation of new stores crane for tug, Pacific Hickory</projectname>
+    </project>
+    <project>
+      <projectnumber>007</projectnumber>
+      <projectname>80m Heavy Deck Barge</projectname>
+    </project>
+    <project>
+      <projectnumber>008</projectnumber>
+      <projectname>Design of Shallow Draft Oil / Deck Cargo Barge</projectname>
+    </project>
+    <project>
+      <projectnumber>009</projectnumber>
+      <projectname>Grimaldi Towing Arrangement</projectname>
+    </project>
+    <project>
+      <projectnumber>010</projectnumber>
+      <projectname>Crane Base on cable-laying barge ITB 45</projectname>
+    </project>
+    <project>
+      <projectnumber>011</projectnumber>
+      <projectname>80M Heavy Deck Barge</projectname>
+    </project>
+    <project>
+      <projectnumber>012</projectnumber>
+      <projectname>86M Heavy Deck Barge</projectname>
+    </project>
+    <project>
+      <projectnumber>013</projectnumber>
+      <projectname>73M Deck Barge</projectname>
+    </project>
+    <project>
+      <projectnumber>014</projectnumber>
+      <projectname>61M Barge</projectname>
+    </project>
+    <project>
+      <projectnumber>015</projectnumber>
+      <projectname>001-015 86M Heavy Deck Barge 4th Series</projectname>
+    </project>
+    <project>
+      <projectnumber>016</projectnumber>
+      <projectname>FD48-75 Flat Deck Barge</projectname>
+    </project>
+    <project>
+      <projectnumber>017</projectnumber>
+      <projectname>FD36-55 Flat Deck Barge</projectname>
+    </project>
+    <project>
+      <projectnumber>018</projectnumber>
+      <projectname>FD36-49 Flat Deck Barge</projectname>
+    </project>
+    <project>
+      <projectnumber>019</projectnumber>
+      <projectname>FD30-40 Flat Deck Barge</projectname>
+    </project>
+    <project>
+      <projectnumber>020</projectnumber>
+      <projectname>FD30-24 Flat Deck Barge</projectname>
+    </project>
+    <project>
+      <projectnumber>021</projectnumber>
+      <projectname>FD30-20 Flat Deck Barge</projectname>
+    </project>
+  </client>
+  <client recordnumber="002">
+    <clientnumber>002</clientnumber>
+    <clientname>RAL</clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>Rio Tinto Projects</projectname>
+    </project>
+    <project>
+      <projectnumber>002</projectnumber>
+      <projectname>Kuskokwim River tug and barge fleet for AMEC</projectname>
+    </project>
+    <project>
+      <projectnumber>003</projectnumber>
+      <projectname>Mackenzie River Yarding Tug for NTCL</projectname>
+    </project>
+    <project>
+      <projectnumber>004</projectnumber>
+      <projectname>Klondyke Ferry Refit for Alberta Infrastucture and Transportation (AIT)</projectname>
+    </project>
+    <project>
+      <projectnumber>005</projectnumber>
+      <projectname>Mark Mulligan Contract Services (October 1-15, 2007)</projectname>
+    </project>
+    <project>
+      <projectnumber>006</projectnumber>
+      <projectname>ITB Supplier Tank Barge</projectname>
+    </project>
+    <project>
+      <projectnumber>007</projectnumber>
+      <projectname>Costa Azul LNG Tug for Moran Towing</projectname>
+    </project>
+    <project>
+      <projectnumber>008</projectnumber>
+      <projectname>39 metre Terminal Tug for Boston Towing</projectname>
+    </project>
+  </client>
+  <client recordnumber="003">
+    <clientnumber>003</clientnumber>
+    <clientname>Horizon North Logistics Inc.</clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>Consulting re Module Transportion aboard SS 200 Series Barges (Vancouver to Robert's Bay, Nunavut)</projectname>
+    </project>
+  </client>
+  <client recordnumber="004">
+    <clientnumber>004</clientnumber>
+    <clientname>Aker Shipyards Marine</clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>Proposal re structural design assistance</projectname>
+    </project>
+    <project>
+      <projectnumber>002</projectnumber>
+      <projectname>Proposal re structural design and detailing of 285' offshore supply vessel</projectname>
+    </project>
+  </client>
+  <client recordnumber="005">
+    <clientnumber>005</clientnumber>
+    <clientname>Seaspan International Ltd.</clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>80m Heavy Deck Barge (Sea to Sky Project)</projectname>
+    </project>
+    <project>
+      <projectnumber>002</projectnumber>
+      <projectname>Structural Modifications to Existing Oil Barge</projectname>
+    </project>
+    <project>
+      <projectnumber>003</projectnumber>
+      <projectname>Conversion of SKEENA Class Barge to carry a large container crane</projectname>
+    </project>
+    <project>
+      <projectnumber>004</projectnumber>
+      <projectname>Conversion of Haida Brave to garbage carrier</projectname>
+    </project>
+    <project>
+      <projectnumber>006</projectnumber>
+      <projectname>Log barges loading and stability</projectname>
+    </project>
+    <project>
+      <projectnumber>007</projectnumber>
+      <projectname>Propeller calculations</projectname>
+    </project>
+    <project>
+      <projectnumber>008</projectnumber>
+      <projectname>Structural inspection for short-term voyages</projectname>
+    </project>
+    <project>
+      <projectnumber>009</projectnumber>
+      <projectname>Bow Ramp Study</projectname>
+    </project>
+    <project>
+      <projectnumber>010</projectnumber>
+      <projectname>Wind generator dockings</projectname>
+    </project>
+  </client>
+  <client recordnumber="006">
+    <clientnumber>006</clientnumber>
+    <clientname>Yukon Territorial Government</clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>Review of George Black Skidway Modifications</projectname>
+    </project>
+  </client>
+  <client recordnumber="007">
+    <clientnumber>007</clientnumber>
+    <clientname>BC Ministry of Transportation</clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>Review of BC Ferries' Mid-Coast Ferry Proposals</projectname>
+    </project>
+    <project>
+      <projectnumber>002</projectnumber>
+      <projectname>Barnston Island Ferry</projectname>
+    </project>
+    <project>
+      <projectnumber>003</projectnumber>
+      <projectname>Inland Ferry - Capital Asset Management Plan</projectname>
+    </project>
+    <project>
+      <projectnumber>004</projectnumber>
+      <projectname>Naval Architecture and Marine Engineering Services</projectname>
+    </project>
+    <project>
+      <projectnumber>005</projectnumber>
+      <projectname>Galena Ferry Replacement</projectname>
+    </project>
+    <project>
+      <projectnumber>006</projectnumber>
+      <projectname>Naval Architecture and Marine Engineering Services</projectname>
+    </project>
+    <project>
+      <projectnumber>007</projectnumber>
+      <projectname>Upper Arrow Lake Ferry</projectname>
+    </project>
+    <project>
+      <projectnumber>008</projectnumber>
+      <projectname>Maximum Load Estimates</projectname>
+    </project>
+    <project>
+      <projectnumber>009</projectnumber>
+      <projectname>Preliminary Stability</projectname>
+    </project>
+    <project>
+      <projectnumber>010</projectnumber>
+      <projectname>Francois Forester Survey</projectname>
+    </project>
+    <project>
+      <projectnumber>011</projectnumber>
+      <projectname>Nicola Replacement</projectname>
+    </project>
+    <project>
+      <projectnumber>012</projectnumber>
+      <projectname>Ad-Hoc Services</projectname>
+    </project>
+    <project>
+      <projectnumber>013</projectnumber>
+      <projectname>Lengthening of MV Osprey 2000</projectname>
+    </project>
+    <project>
+      <projectnumber>014</projectnumber>
+      <projectname>DEV Galena Thruster Replacement</projectname>
+    </project>
+  </client>
+  <client recordnumber="008">
+    <clientnumber>008</clientnumber>
+    <clientname>Vancouver Pile Driving Ltd.</clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>Lift capacity charts for various crane barges</projectname>
+    </project>
+    <project>
+      <projectnumber>002</projectnumber>
+      <projectname>1500 yd dump barge</projectname>
+    </project>
+    <project>
+      <projectnumber>003</projectnumber>
+      <projectname>Review possible crane and pontoon arrangements for sectional barge</projectname>
+    </project>
+    <project>
+      <projectnumber>004</projectnumber>
+      <projectname>Modifications to Derrick No. 8</projectname>
+    </project>
+    <project>
+      <projectnumber>005</projectnumber>
+      <projectname>Engineering Support Services for Port Mann Bridge Footing</projectname>
+    </project>
+    <project>
+      <projectnumber>006</projectnumber>
+      <projectname>Lift Chaft for GW Carlson</projectname>
+    </project>
+    <project>
+      <projectnumber>007</projectnumber>
+      <projectname>Lift Chart for Derrick NO.6 with Dillingham Special Crane</projectname>
+    </project>
+    <project>
+      <projectnumber>008</projectnumber>
+      <projectname>BOLLINGER CRANE BARGE FEASIBILITY, Stowage Plan, and Seafastening design</projectname>
+    </project>
+    <project>
+      <projectnumber>009</projectnumber>
+      <projectname>Sectional Barge Connection System </projectname>
+    </project>
+    <project>
+      <projectnumber>010</projectnumber>
+      <projectname>Kitimat Dump Barge Loading Platform</projectname>
+    </project>
+    <project>
+      <projectnumber>011</projectnumber>
+      <projectname>VPD No. 7 With Manitowoc 4100 Lift Chart</projectname>
+    </project>
+    <project>
+      <projectnumber>012</projectnumber>
+      <projectname>Flexifloat Crane Chart</projectname>
+    </project>
+    <project>
+      <projectnumber>013</projectnumber>
+      <projectname>Derrick # 6 with Manitowoc 3950</projectname>
+    </project>
+  </client>
+  <client recordnumber="009">
+    <clientnumber>009</clientnumber>
+    <clientname>Deltaport Constructors Ltd.</clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>Technical support required to fit two cranes on the Peter D. Andereson</projectname>
+    </project>
+  </client>
+  <client recordnumber="010">
+    <clientnumber>010</clientnumber>
+    <clientname>Fraser River Pile and Dredge</clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>400 tonne heavy lift barge</projectname>
+    </project>
+    <project>
+      <projectnumber>002</projectnumber>
+      <projectname>Winch Seating for A-Frame on self-propelled barge</projectname>
+    </project>
+    <project>
+      <projectnumber>003</projectnumber>
+      <projectname>Righting of SMIT Chip Barge</projectname>
+    </project>
+    <project>
+      <projectnumber>004</projectnumber>
+      <projectname>Repowering of Hopper Dredge FRASER TITAN</projectname>
+    </project>
+    <project>
+      <projectnumber>005</projectnumber>
+      <projectname>Deck Lugs for transport of crawler crane on Peter D. Anderson</projectname>
+    </project>
+    <project>
+      <projectnumber>006</projectnumber>
+      <projectname>Spud Relocation on GE2 derrick scow</projectname>
+    </project>
+    <project>
+      <projectnumber>007</projectnumber>
+      <projectname>Lift Capacity Chart - Manitowoc 16000 on the Peter D. Anderson</projectname>
+    </project>
+    <project>
+      <projectnumber>008</projectnumber>
+      <projectname>Shipwide Fuel Diagram Upgrade</projectname>
+    </project>
+    <project>
+      <projectnumber>009</projectnumber>
+      <projectname>Lube Oil - see 010-004</projectname>
+    </project>
+    <project>
+      <projectnumber>010</projectnumber>
+      <projectname>R.E. McKenzie Lift Chart</projectname>
+    </project>
+    <project>
+      <projectnumber>011</projectnumber>
+      <projectname>Peter D. Anderson Lift Charts</projectname>
+    </project>
+    <project>
+      <projectnumber>012</projectnumber>
+      <projectname>GE 1 Lift Chart</projectname>
+    </project>
+    <project>
+      <projectnumber>013</projectnumber>
+      <projectname>GE 2 Lift Chart</projectname>
+    </project>
+    <project>
+      <projectnumber>014</projectnumber>
+      <projectname>GE 4 Lift Chart</projectname>
+    </project>
+    <project>
+      <projectnumber>015</projectnumber>
+      <projectname>GE 5 Lift Chart and Sewage Tank</projectname>
+    </project>
+    <project>
+      <projectnumber>016</projectnumber>
+      <projectname>GE 6 Lift Chart</projectname>
+    </project>
+    <project>
+      <projectnumber>017</projectnumber>
+      <projectname>TL Sharpe Lift Chart</projectname>
+    </project>
+    <project>
+      <projectnumber>018</projectnumber>
+      <projectname>McKenzie Lift Chart</projectname>
+    </project>
+    <project>
+      <projectnumber>019</projectnumber>
+      <projectname>GE 6 Lift Chart - new crane - Liebherr 883</projectname>
+    </project>
+    <project>
+      <projectnumber>020</projectnumber>
+      <projectname>GE 6 Lift Chart - new crane - W 4600S2</projectname>
+    </project>
+    <project>
+      <projectnumber>021</projectnumber>
+      <projectname>MBD 36 </projectname>
+    </project>
+    <project>
+      <projectnumber>022</projectnumber>
+      <projectname>Crane Transport</projectname>
+    </project>
+    <project>
+      <projectnumber>023</projectnumber>
+      <projectname>Charles and Sisters Lift Chart w/ LS318</projectname>
+    </project>
+    <project>
+      <projectnumber>024</projectnumber>
+      <projectname>60 x 24 Sectional Barge - Manlift Spec</projectname>
+    </project>
+    <project>
+      <projectnumber>025</projectnumber>
+      <projectname>Genie Lift on Barge</projectname>
+    </project>
+  </client>
+  <client recordnumber="011">
+    <clientnumber>011</clientnumber>
+    <clientname>Finning</clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>Technical Support re Mid-Shore Patrol Vessels (Proposal)</projectname>
+    </project>
+    <project>
+      <projectnumber>002</projectnumber>
+      <projectname>Engine Brackets for yacht BEIJA FLOR at Queenship</projectname>
+    </project>
+  </client>
+  <client recordnumber="012">
+    <clientnumber>012</clientnumber>
+    <clientname>Dargas Shipping</clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>Hover Barge Powering Study</projectname>
+    </project>
+  </client>
+  <client recordnumber="013">
+    <clientnumber>013</clientnumber>
+    <clientname>Teekay Marine Services</clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>Longitudinal Strength Calculations concerning under-deck corrosion</projectname>
+    </project>
+    <project>
+      <projectnumber>002</projectnumber>
+      <projectname>Roller Fairlead Analysis (Proposal)</projectname>
+    </project>
+  </client>
+  <client recordnumber="014">
+    <clientnumber>014</clientnumber>
+    <clientname></clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>WSF 50 AEQ Car Ferry for Keystone-Port Townsend Route</projectname>
+    </project>
+  </client>
+  <client recordnumber="015">
+    <clientnumber>015</clientnumber>
+    <clientname>Sea Business</clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>Loss of Container Cranes from a Deck Barge</projectname>
+    </project>
+    <project>
+      <projectnumber>002</projectnumber>
+      <projectname>Transportation of Esquimault Dock Gates to Point Hope Shipyard for disposal</projectname>
+    </project>
+  </client>
+  <client recordnumber="016">
+    <clientnumber>016</clientnumber>
+    <clientname>Redcorp</clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>Modernisation of river tug Arctic Eagle</projectname>
+    </project>
+  </client>
+  <client recordnumber="017">
+    <clientnumber>017</clientnumber>
+    <clientname>Terry Scully Marine Services</clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>Towing Calculations for fish farm frames</projectname>
+    </project>
+  </client>
+  <client recordnumber="018">
+    <clientnumber>018</clientnumber>
+    <clientname>CMDL</clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>Design of twin screw conventional tug</projectname>
+    </project>
+  </client>
+  <client recordnumber="019">
+    <clientnumber>019</clientnumber>
+    <clientname>Lehigh Northwest Materials Ltd</clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>Design of 5500 Dwt Heavy Deck Barges</projectname>
+    </project>
+    <project>
+      <projectnumber>002</projectnumber>
+      <projectname>Barge Current Forces</projectname>
+    </project>
+    <project>
+      <projectnumber>003</projectnumber>
+      <projectname>Assessment of Deck Strength</projectname>
+    </project>
+  </client>
+  <client recordnumber="020">
+    <clientnumber>020</clientnumber>
+    <clientname>CMDL</clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>Design and marketing of standard tug for local companies - 24m Inshore Conventional tug</projectname>
+    </project>
+    <project>
+      <projectnumber>002</projectnumber>
+      <projectname>Development of LNG Commuter Ferry</projectname>
+    </project>
+  </client>
+  <client recordnumber="021">
+    <clientnumber>021</clientnumber>
+    <clientname>Seaspan Coastal Intermodal</clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>Study and Preliminary designs of next generation Trailer ferry system</projectname>
+    </project>
+    <project>
+      <projectnumber>002</projectnumber>
+      <projectname>Seaspan Doris Condition Survey and Deck Replacement</projectname>
+    </project>
+    <project>
+      <projectnumber>003</projectnumber>
+      <projectname>LNG Propulsion Conversion</projectname>
+    </project>
+    <project>
+      <projectnumber>004</projectnumber>
+      <projectname>Structural Inspection </projectname>
+    </project>
+  </client>
+  <client recordnumber="022">
+    <clientnumber>022</clientnumber>
+    <clientname>JJM Construction Ltd. (Miller Contracting, Inc.)</clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>Inspect Dump Barge 309</projectname>
+    </project>
+    <project>
+      <projectnumber>002</projectnumber>
+      <projectname>Design of Moon Pool for Miller 212 Spud Barge</projectname>
+    </project>
+    <project>
+      <projectnumber>003</projectnumber>
+      <projectname>Design of 2nd 9-Foot Moon Pool for Miller 212 Spud Barge</projectname>
+    </project>
+  </client>
+  <client recordnumber="023">
+    <clientnumber>023</clientnumber>
+    <clientname>Vancouver Shipyards Co. Limited</clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>Technical Support on site at the shipyard</projectname>
+    </project>
+    <project>
+      <projectnumber>005</projectnumber>
+      <projectname>Technical Support for Syncrolift - (Tanu)</projectname>
+    </project>
+    <project>
+      <projectnumber>006</projectnumber>
+      <projectname>Marine Petrobulk 32K BBL Oil Barge - Hull 174</projectname>
+    </project>
+  </client>
+  <client recordnumber="024">
+    <clientnumber>024</clientnumber>
+    <clientname>The Glosten Associates</clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>Lake Ontario wind farm installation vessels</projectname>
+    </project>
+  </client>
+  <client recordnumber="025">
+    <clientnumber>025</clientnumber>
+    <clientname>Dargas Shipping</clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>Stability assessment of ocean-going chip barge</projectname>
+    </project>
+    <project>
+      <projectnumber>002</projectnumber>
+      <projectname>Aft End Lines Plan and Powering Estimate</projectname>
+    </project>
+  </client>
+  <client recordnumber="026">
+    <clientnumber>026</clientnumber>
+    <clientname>A.G. McIlwain </clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>Panama Tug</projectname>
+    </project>
+  </client>
+  <client recordnumber="027">
+    <clientnumber>027</clientnumber>
+    <clientname>Bull Housser Tupper</clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>Technical Support for salvage of equipment lost near Robson Bight</projectname>
+    </project>
+  </client>
+  <client recordnumber="028">
+    <clientnumber>028</clientnumber>
+    <clientname>Svitzer A/S</clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>24 m Z-Drive Tug</projectname>
+    </project>
+  </client>
+  <client recordnumber="029">
+    <clientnumber>029</clientnumber>
+    <clientname>SMIT</clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>Hercules Log Barge - Structural Repair</projectname>
+    </project>
+    <project>
+      <projectnumber>002</projectnumber>
+      <projectname>Log Load</projectname>
+    </project>
+    <project>
+      <projectnumber>003</projectnumber>
+      <projectname>Barge Loading Study</projectname>
+    </project>
+    <project>
+      <projectnumber>004</projectnumber>
+      <projectname>BP Hybrid Tug Refit - yippee</projectname>
+    </project>
+    <project>
+      <projectnumber>005</projectnumber>
+      <projectname>80 M Dock replacement</projectname>
+    </project>
+    <project>
+      <projectnumber>006</projectnumber>
+      <projectname>Re Engine</projectname>
+    </project>
+    <project>
+      <projectnumber>007</projectnumber>
+      <projectname>Engine Vibration / Stability Booklet</projectname>
+    </project>
+    <project>
+      <projectnumber>008</projectnumber>
+      <projectname>Fire and Safety Plan</projectname>
+    </project>
+  </client>
+  <client recordnumber="030">
+    <clientnumber>030</clientnumber>
+    <clientname>West Shore Constructors</clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>Liftcrane Capacity Chart - LIMA 770-HC</projectname>
+    </project>
+  </client>
+  <client recordnumber="031">
+    <clientnumber>031</clientnumber>
+    <clientname>Vancouver Drydock Co. Ltd.</clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>Panamax Drydock washwater Collection System</projectname>
+    </project>
+  </client>
+  <client recordnumber="032">
+    <clientnumber>032</clientnumber>
+    <clientname>032-001 AMEC accommodation barge</clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname></projectname>
+    </project>
+    <project>
+      <projectnumber>002</projectnumber>
+      <projectname>ATM Project - MFT Supply Barge and related marine infrastructure</projectname>
+    </project>
+    <project>
+      <projectnumber>003</projectnumber>
+      <projectname>KID Barge</projectname>
+    </project>
+    <project>
+      <projectnumber>004</projectnumber>
+      <projectname>TR West In Pit (WIP) Suction Pontoon</projectname>
+    </project>
+    <project>
+      <projectnumber>005</projectnumber>
+      <projectname>Base Mine Lake - Environmental Platforms</projectname>
+    </project>
+    <project>
+      <projectnumber>006</projectnumber>
+      <projectname>ATM Project - CT Barge</projectname>
+    </project>
+    <project>
+      <projectnumber>007</projectnumber>
+      <projectname>Mildred Lake FFT CFSP Project</projectname>
+    </project>
+    <project>
+      <projectnumber>008</projectnumber>
+      <projectname>Naval Architecture Seminars</projectname>
+    </project>
+    <project>
+      <projectnumber>009</projectnumber>
+      <projectname>MFT-CFSP Pond Support Vessel (ice-strengthened workboat)</projectname>
+    </project>
+    <project>
+      <projectnumber>011</projectnumber>
+      <projectname>TRNMSPE</projectname>
+    </project>
+    <project>
+      <projectnumber>012</projectnumber>
+      <projectname>Kearl KFTT MFT Pump Barge</projectname>
+    </project>
+    <project>
+      <projectnumber>013</projectnumber>
+      <projectname>Water Transfer Dredge</projectname>
+    </project>
+  </client>
+  <client recordnumber="033">
+    <clientnumber>033</clientnumber>
+    <clientname>Moffatt and Nichol</clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>Treasure Island Commuter Ferry Concept Development Support</projectname>
+    </project>
+  </client>
+  <client recordnumber="034">
+    <clientnumber>034</clientnumber>
+    <clientname>Dennerik Engineering and Fabricating Co. Ltd.</clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>Endako Mines - Floating Reclaim Barge Pump Station</projectname>
+    </project>
+    <project>
+      <projectnumber>002</projectnumber>
+      <projectname>Reclaim Water Barge</projectname>
+    </project>
+  </client>
+  <client recordnumber="035">
+    <clientnumber>035</clientnumber>
+    <clientname>Fraser River Pile and Dredge</clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>Spud winch modifications for barge GE 6</projectname>
+    </project>
+  </client>
+  <client recordnumber="036">
+    <clientnumber>036</clientnumber>
+    <clientname>DFO</clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>Construction Cost Estimate</projectname>
+    </project>
+  </client>
+  <client recordnumber="037">
+    <clientnumber>037</clientnumber>
+    <clientname>CMDL</clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>Hybrid Tug Developent</projectname>
+    </project>
+  </client>
+  <client recordnumber="038">
+    <clientnumber>038</clientnumber>
+    <clientname>Alaska Ship and Drydock</clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>Alaska 22 car ferry</projectname>
+    </project>
+  </client>
+  <client recordnumber="039">
+    <clientnumber>039</clientnumber>
+    <clientname>Natural Resources Canada</clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>Wave Assessment Performance Standard</projectname>
+    </project>
+  </client>
+  <client recordnumber="040">
+    <clientnumber>040</clientnumber>
+    <clientname>Kiewit Corp.</clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>Barge Transportation of Auxiliary Boilers</projectname>
+    </project>
+  </client>
+  <client recordnumber="041">
+    <clientnumber>041</clientnumber>
+    <clientname>Marine Link Transportation</clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>Aurora Explorer - Propulsion Modifications</projectname>
+    </project>
+    <project>
+      <projectnumber>002</projectnumber>
+      <projectname>Aurora Explorer - Accommodation Modifications</projectname>
+    </project>
+    <project>
+      <projectnumber>003</projectnumber>
+      <projectname>Lengthening and conversion to Oil Barge</projectname>
+    </project>
+  </client>
+  <client recordnumber="042">
+    <clientnumber>042</clientnumber>
+    <clientname>Petro-Nav</clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>Oil Barge</projectname>
+    </project>
+  </client>
+  <client recordnumber="043">
+    <clientnumber>043</clientnumber>
+    <clientname>BCFS</clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>Cooler Mods</projectname>
+    </project>
+    <project>
+      <projectnumber>002</projectnumber>
+      <projectname>Sump Tank Vent Design and Arrangement</projectname>
+    </project>
+    <project>
+      <projectnumber>003</projectnumber>
+      <projectname>Preliminary Design of a 50-AEQ Cable Ferry for Denman Island</projectname>
+    </project>
+  </client>
+  <client recordnumber="044">
+    <clientnumber>044</clientnumber>
+    <clientname>IMC</clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>Stability and Strength Assessment of Manitoba Cable Ferry</projectname>
+    </project>
+    <project>
+      <projectnumber>002</projectnumber>
+      <projectname>Stability Analysis of 15m Patrol Vessel - Conversion to Tug</projectname>
+    </project>
+  </client>
+  <client recordnumber="045">
+    <clientnumber>045</clientnumber>
+    <clientname>Pakap Imports Corp.</clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>Organize maneuverability trials of Thundercat 4.1 m inflatable catamaran</projectname>
+    </project>
+  </client>
+  <client recordnumber="046">
+    <clientnumber>046</clientnumber>
+    <clientname>Sidney Waterfront Partnership</clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>Review of Plans for Tow of Hood Canal Bridge Concrete Pontoons to Cawl Bay</projectname>
+    </project>
+  </client>
+  <client recordnumber="047">
+    <clientnumber>047</clientnumber>
+    <clientname>Burrard Iron Works Limited</clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>Review calculations for design of Third Seabus anchor windlass</projectname>
+    </project>
+  </client>
+  <client recordnumber="048">
+    <clientnumber>048</clientnumber>
+    <clientname>TDC</clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>Harbour Tug Power and Emissions Monitoring</projectname>
+    </project>
+  </client>
+  <client recordnumber="049">
+    <clientnumber>049</clientnumber>
+    <clientname>Manitoba Infrastructure and Transportation</clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>Proposal for Major Refit of Cable Ferry Alfred Settee Sr</projectname>
+    </project>
+    <project>
+      <projectnumber>002</projectnumber>
+      <projectname>Proposal for Major Refit of Cable Ferry Ingemar Carlson II</projectname>
+    </project>
+    <project>
+      <projectnumber>003</projectnumber>
+      <projectname>Detailed Design of 15 AEQ Ferry</projectname>
+    </project>
+  </client>
+  <client recordnumber="050">
+    <clientnumber>050</clientnumber>
+    <clientname>City of Toronto</clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>Proposal for Naval Architect Services</projectname>
+    </project>
+  </client>
+  <client recordnumber="051">
+    <clientnumber>051</clientnumber>
+    <clientname>DCMT</clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>CCG TANU - Rudder Propeller</projectname>
+    </project>
+  </client>
+  <client recordnumber="052">
+    <clientnumber>052</clientnumber>
+    <clientname>Hypower</clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>Fraser Titan Steering Gear</projectname>
+    </project>
+  </client>
+  <client recordnumber="053">
+    <clientnumber>053</clientnumber>
+    <clientname>Mercury Launch and Tug Ltd.</clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>Jumboizing Heavy Deck Barge</projectname>
+    </project>
+    <project>
+      <projectnumber>002</projectnumber>
+      <projectname>100m Heavy Deck Barge</projectname>
+    </project>
+    <project>
+      <projectnumber>003</projectnumber>
+      <projectname>Ramp for barges</projectname>
+    </project>
+  </client>
+  <client recordnumber="054">
+    <clientnumber>054</clientnumber>
+    <clientname>Estaleiro Santa Cruz</clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>Conversion of Twin-Screw Tug to ASD Propulsion</projectname>
+    </project>
+    <project>
+      <projectnumber>002</projectnumber>
+      <projectname>12 tonne BP Tug</projectname>
+    </project>
+    <project>
+      <projectnumber>003</projectnumber>
+      <projectname>11.6 m Crew Boat - 15 passengers</projectname>
+    </project>
+    <project>
+      <projectnumber>004</projectnumber>
+      <projectname>28M River Push Tug</projectname>
+    </project>
+  </client>
+  <client recordnumber="055">
+    <clientnumber>055</clientnumber>
+    <clientname>Aquabus</clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>Stability Evaluation</projectname>
+    </project>
+    <project>
+      <projectnumber>002</projectnumber>
+      <projectname>Concept Design for new Aquabus</projectname>
+    </project>
+  </client>
+  <client recordnumber="056">
+    <clientnumber>056</clientnumber>
+    <clientname>Pacific Industrial and Marine Crane Barge</clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>Design of 140 tonne Crane Barge</projectname>
+    </project>
+    <project>
+      <projectnumber>002</projectnumber>
+      <projectname>Crane Barge - Condition Report</projectname>
+    </project>
+  </client>
+  <client recordnumber="057">
+    <clientnumber>057</clientnumber>
+    <clientname>University of Victoria</clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>Reasearch Vessel Procurement - Proposal</projectname>
+    </project>
+  </client>
+  <client recordnumber="058">
+    <clientnumber>058</clientnumber>
+    <clientname>CanDIve</clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>Decommissioning of False Creek Esso Fuel Barge</projectname>
+    </project>
+  </client>
+  <client recordnumber="059">
+    <clientnumber>059</clientnumber>
+    <clientname>Dennis Keeling</clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>Inclining Experiment</projectname>
+    </project>
+  </client>
+  <client recordnumber="060">
+    <clientnumber>060</clientnumber>
+    <clientname>Shaver Transportation </clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>Design of Compact ASD Harbour Tug</projectname>
+    </project>
+  </client>
+  <client recordnumber="061">
+    <clientnumber>061</clientnumber>
+    <clientname>Saskatchewan MHandI</clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>Riverhurst Ferry Terminal Facilities Review</projectname>
+    </project>
+  </client>
+  <client recordnumber="062">
+    <clientnumber>062</clientnumber>
+    <clientname>Island Tug and Barge Ltd.</clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>Arctic Container Barge</projectname>
+    </project>
+  </client>
+  <client recordnumber="063">
+    <clientnumber>063</clientnumber>
+    <clientname>Ministry of Tourism and Culture, Ontario</clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>Consultant</projectname>
+    </project>
+  </client>
+  <client recordnumber="064">
+    <clientnumber>064</clientnumber>
+    <clientname>Burton Pile Driving and Foundations</clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>Crane Lift Charts</projectname>
+    </project>
+  </client>
+  <client recordnumber="065">
+    <clientnumber>065</clientnumber>
+    <clientname>Shoreline Pile Driving and Shore Lift</clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>Crane Charts</projectname>
+    </project>
+  </client>
+  <client recordnumber="066">
+    <clientnumber>066</clientnumber>
+    <clientname>Duke Point Barge Terminal</clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>Salvage of  Barge</projectname>
+    </project>
+  </client>
+  <client recordnumber="067">
+    <clientnumber>067</clientnumber>
+    <clientname>McAllister Marine Survey and Design Ltd.</clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>Class A Oil Barge - Design Calculations</projectname>
+    </project>
+    <project>
+      <projectnumber>002</projectnumber>
+      <projectname>150t Barge</projectname>
+    </project>
+  </client>
+  <client recordnumber="068">
+    <clientnumber>068</clientnumber>
+    <clientname>Ledcor Marine (ex Pacific Western Navigation Ltd. Partnership)</clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>12 Wood-Chip Barges</projectname>
+    </project>
+    <project>
+      <projectnumber>002</projectnumber>
+      <projectname>Evaluate feasibility of converting gravel barges to wood chip service</projectname>
+    </project>
+    <project>
+      <projectnumber>003</projectnumber>
+      <projectname>Conversion to hog barge</projectname>
+    </project>
+    <project>
+      <projectnumber>004</projectnumber>
+      <projectname>Conversion to covered barge</projectname>
+    </project>
+    <project>
+      <projectnumber>005</projectnumber>
+      <projectname>Container carried on aft deck</projectname>
+    </project>
+    <project>
+      <projectnumber>006</projectnumber>
+      <projectname>DP World Container Barges</projectname>
+    </project>
+  </client>
+  <client recordnumber="069">
+    <clientnumber>069</clientnumber>
+    <clientname>Aurora Recreation Co.</clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>Rigid Hull Inflatable </projectname>
+    </project>
+    <project>
+      <projectnumber>002</projectnumber>
+      <projectname>2.75m RIB</projectname>
+    </project>
+  </client>
+  <client recordnumber="070">
+    <clientnumber>070</clientnumber>
+    <clientname>MMG (Minerals and Metals Group)</clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>Barge Transportation on Contwoyto Lake for the IZOK Project</projectname>
+    </project>
+  </client>
+  <client recordnumber="071">
+    <clientnumber>071</clientnumber>
+    <clientname>AMIX SALVAGE and SALES</clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>MINESWEEPER WEIGHT ESTIMATE</projectname>
+    </project>
+    <project>
+      <projectnumber>002</projectnumber>
+      <projectname>MILLER 202 Lift Barge / Dry Dock</projectname>
+    </project>
+    <project>
+      <projectnumber>003</projectnumber>
+      <projectname>FINLAY Stability Assessment</projectname>
+    </project>
+    <project>
+      <projectnumber>004</projectnumber>
+      <projectname>Salvage of  Barge</projectname>
+    </project>
+    <project>
+      <projectnumber>005</projectnumber>
+      <projectname>Salvage of  Barge</projectname>
+    </project>
+    <project>
+      <projectnumber>006</projectnumber>
+      <projectname>Salvage of Sunken Ferry</projectname>
+    </project>
+    <project>
+      <projectnumber>007</projectnumber>
+      <projectname>Development of Log Barge</projectname>
+    </project>
+    <project>
+      <projectnumber>008</projectnumber>
+      <projectname>Assessment of scrapping of overturned barge</projectname>
+    </project>
+  </client>
+  <client recordnumber="072">
+    <clientnumber>072</clientnumber>
+    <clientname>SEA NG</clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>C25 Class  Structural Design</projectname>
+    </project>
+    <project>
+      <projectnumber>002</projectnumber>
+      <projectname>C16 General Arrangement</projectname>
+    </project>
+    <project>
+      <projectnumber>003</projectnumber>
+      <projectname>C12 ATB</projectname>
+    </project>
+    <project>
+      <projectnumber>004</projectnumber>
+      <projectname>Coselle Ship for Goliat Project</projectname>
+    </project>
+    <project>
+      <projectnumber>005</projectnumber>
+      <projectname>Vladivostok</projectname>
+    </project>
+    <project>
+      <projectnumber>006</projectnumber>
+      <projectname>Sea NG Centrica</projectname>
+    </project>
+    <project>
+      <projectnumber>007</projectnumber>
+      <projectname>C36 - Prince Report/ Kenai</projectname>
+    </project>
+    <project>
+      <projectnumber>008</projectnumber>
+      <projectname>C112 - Woodside</projectname>
+    </project>
+  </client>
+  <client recordnumber="073">
+    <clientnumber>073</clientnumber>
+    <clientname>MARINE HARVEST</clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>Steel General Purpose Scow and Crane arrangement </projectname>
+    </project>
+  </client>
+  <client recordnumber="074">
+    <clientnumber>074</clientnumber>
+    <clientname>SUNSET BAY YACHT GROUP</clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>Stability Book - </projectname>
+    </project>
+  </client>
+  <client recordnumber="075">
+    <clientnumber>075</clientnumber>
+    <clientname>Burrard Yacht Club</clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>Pontoon purchase</projectname>
+    </project>
+  </client>
+  <client recordnumber="076">
+    <clientnumber>076</clientnumber>
+    <clientname>Creative Salmon Co.</clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>Stability Booklet</projectname>
+    </project>
+  </client>
+  <client recordnumber="077">
+    <clientnumber>077</clientnumber>
+    <clientname>BNG Engineering </clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>Mooring analysis</projectname>
+    </project>
+  </client>
+  <client recordnumber="078">
+    <clientnumber>078</clientnumber>
+    <clientname>Magic Yacht Charters</clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>Lightship Survey, etc.</projectname>
+    </project>
+    <project>
+      <projectnumber>002</projectnumber>
+      <projectname>Stability, Incline, Surface Modeling</projectname>
+    </project>
+    <project>
+      <projectnumber>003</projectnumber>
+      <projectname>Deckhouse Structure Strength Calculations</projectname>
+    </project>
+  </client>
+  <client recordnumber="079">
+    <clientnumber>079</clientnumber>
+    <clientname>Tactical Marine</clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>Cost Estimate</projectname>
+    </project>
+  </client>
+  <client recordnumber="080">
+    <clientnumber>080</clientnumber>
+    <clientname>Surespan Structures (taken over from Valley Towing)</clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>Port Mann Bridge barge layout - towing of bridge deck structures</projectname>
+    </project>
+  </client>
+  <client recordnumber="081">
+    <clientnumber>081</clientnumber>
+    <clientname>Manitoba Hydro</clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>Construction supervision of Dallas-Faye self propelled barge</projectname>
+    </project>
+    <project>
+      <projectnumber>002</projectnumber>
+      <projectname>Design and construction supervision of Notigi replacement marine vessels</projectname>
+    </project>
+  </client>
+  <client recordnumber="082">
+    <clientnumber>082</clientnumber>
+    <clientname>Schandy </clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>River Push Tug Design (Proposed as at June 2011)</projectname>
+    </project>
+    <project>
+      <projectnumber>002</projectnumber>
+      <projectname>River Push Tug analysis</projectname>
+    </project>
+  </client>
+  <client recordnumber="083">
+    <clientnumber>083</clientnumber>
+    <clientname>SRY Rail Link</clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>Railway Bridge repair</projectname>
+    </project>
+  </client>
+  <client recordnumber="084">
+    <clientnumber>084</clientnumber>
+    <clientname>John Dolmage</clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>Cape Ross Stability</projectname>
+    </project>
+  </client>
+  <client recordnumber="085">
+    <clientnumber>085</clientnumber>
+    <clientname>DP World (Canada)</clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>80 M Container Barge</projectname>
+    </project>
+  </client>
+  <client recordnumber="086">
+    <clientnumber>086</clientnumber>
+    <clientname>Pacific Towing</clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>conversion of Empire 55 barge to covered barge</projectname>
+    </project>
+  </client>
+  <client recordnumber="087">
+    <clientnumber>087</clientnumber>
+    <clientname>Taku River Tlingit First Nation</clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>Review Tulsequah Chief Mine River Transportation Report</projectname>
+    </project>
+  </client>
+  <client recordnumber="088">
+    <clientnumber>088</clientnumber>
+    <clientname>AutoNav</clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>Fabrication drawing of rudder flap</projectname>
+    </project>
+  </client>
+  <client recordnumber="089">
+    <clientnumber>089</clientnumber>
+    <clientname>Wainwright Marine Services Inc.</clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>North Arm Explorer Lift Crane Chart with Link-Belt LS-98</projectname>
+    </project>
+    <project>
+      <projectnumber>002</projectnumber>
+      <projectname>Eagle III Lift Crane Chart with Lima 700-TC</projectname>
+    </project>
+    <project>
+      <projectnumber>002</projectnumber>
+      <projectname>CF42 w 7510 Crane Chart</projectname>
+    </project>
+  </client>
+  <client recordnumber="090">
+    <clientnumber>090</clientnumber>
+    <clientname>McNally Aecon</clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>Port Mann Main Water Supply Tunnel</projectname>
+    </project>
+  </client>
+  <client recordnumber="091">
+    <clientnumber>091</clientnumber>
+    <clientname>Reg Richards</clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>Lightship Survey, Incline, Stability Book</projectname>
+    </project>
+  </client>
+  <client recordnumber="092">
+    <clientnumber>092</clientnumber>
+    <clientname>Wild Whales Eco Tours</clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>Approve Structural Mods/New Stability Book/E.R. Mods</projectname>
+    </project>
+  </client>
+  <client recordnumber="093">
+    <clientnumber>093</clientnumber>
+    <clientname>Xstrata</clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>Barge Survey at Brenda Mines</projectname>
+    </project>
+  </client>
+  <client recordnumber="094">
+    <clientnumber>094</clientnumber>
+    <clientname>Sea Project Alliance</clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>Feasibility </projectname>
+    </project>
+  </client>
+  <client recordnumber="095">
+    <clientnumber>095</clientnumber>
+    <clientname>Oceanworks</clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>Deck Strength Assessment</projectname>
+    </project>
+  </client>
+  <client recordnumber="096">
+    <clientnumber>096</clientnumber>
+    <clientname>BC Hydro</clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>Advise re dynamic stability problems of crew boat at high speed</projectname>
+    </project>
+  </client>
+  <client recordnumber="097">
+    <clientnumber>097</clientnumber>
+    <clientname>Interfor</clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>Barge Inspection</projectname>
+    </project>
+  </client>
+  <client recordnumber="098">
+    <clientnumber>098</clientnumber>
+    <clientname>CWA Engineers Inc.</clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>Concept Tug and Barge for Coal Transport</projectname>
+    </project>
+  </client>
+  <client recordnumber="099">
+    <clientnumber>099</clientnumber>
+    <clientname>Sandvik</clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>Mining Equipment Offload</projectname>
+    </project>
+  </client>
+  <client recordnumber="100">
+    <clientnumber>100</clientnumber>
+    <clientname>Roy Manning</clientname>
+    <project>
+      <projectnumber>001</projectnumber>
+      <projectname>Stability Assessment</projectname>
+    </project>
+  </client>
+  <client recordnumber="P2012">
+    <clientnumber>P2012</clientnumber>
+    <clientname>Ontario -  As-and-When-Needed Contract</clientname>
+    <project>
+      <projectnumber>02</projectnumber>
+      <projectname>Proposal</projectname>
+    </project>
+    <project>
+      <projectnumber>04</projectnumber>
+      <projectname>Proposal</projectname>
+    </project>
+    <project>
+      <projectnumber>05</projectnumber>
+      <projectname>Proposal</projectname>
+    </project>
+    <project>
+      <projectnumber>06</projectnumber>
+      <projectname>Proposal</projectname>
+    </project>
+    <project>
+      <projectnumber>07</projectnumber>
+      <projectname>Proposal</projectname>
+    </project>
+    <project>
+      <projectnumber>08</projectnumber>
+      <projectname>Proposal</projectname>
+    </project>
+    <project>
+      <projectnumber>09</projectnumber>
+      <projectname>Proposal</projectname>
+    </project>
+    <project>
+      <projectnumber>11</projectnumber>
+      <projectname>Proposal</projectname>
+    </project>
+    <project>
+      <projectnumber>12</projectnumber>
+      <projectname>Cable Ferry Proposal</projectname>
+    </project>
+    <project>
+      <projectnumber>13</projectnumber>
+      <projectname>Proposal</projectname>
+    </project>
+    <project>
+      <projectnumber>14</projectnumber>
+      <projectname>Proposal</projectname>
+    </project>
+    <project>
+      <projectnumber>15</projectnumber>
+      <projectname>Proposal</projectname>
+    </project>
+    <project>
+      <projectnumber>16</projectnumber>
+      <projectname>Proposal</projectname>
+    </project>
+    <project>
+      <projectnumber>17</projectnumber>
+      <projectname>Proposal</projectname>
+    </project>
+    <project>
+      <projectnumber>18</projectnumber>
+      <projectname>91.4 M Flat Deck Barge</projectname>
+    </project>
+    <project>
+      <projectnumber>19</projectnumber>
+      <projectname>55 M Flat Deck Barge</projectname>
+    </project>
+    <project>
+      <projectnumber>20</projectnumber>
+      <projectname>40 M Flat Deck Barge</projectname>
+    </project>
+    <project>
+      <projectnumber>21</projectnumber>
+      <projectname>Ferry Inspections</projectname>
+    </project>
+    <project>
+      <projectnumber>22</projectnumber>
+      <projectname>250 ft Barge</projectname>
+    </project>
+    <project>
+      <projectnumber>23</projectnumber>
+      <projectname>180 ft Barge</projectname>
+    </project>
+    <project>
+      <projectnumber>24</projectnumber>
+      <projectname>160 ft Barge</projectname>
+    </project>
+    <project>
+      <projectnumber>25</projectnumber>
+      <projectname>135 ft Barge</projectname>
+    </project>
+    <project>
+      <projectnumber>26</projectnumber>
+      <projectname>80 ft Barge</projectname>
+    </project>
+    <project>
+      <projectnumber>27</projectnumber>
+      <projectname>65 ft Barge</projectname>
+    </project>
+    <project>
+      <projectnumber>28</projectnumber>
+      <projectname>91.4 M Flat Deck Barge</projectname>
+    </project>
+    <project>
+      <projectnumber>29</projectnumber>
+      <projectname>Design and Engineering  </projectname>
+    </project>
+    <project>
+      <projectnumber>30</projectnumber>
+      <projectname>Ship Docking Tug</projectname>
+    </project>
+    <project>
+      <projectnumber>31</projectnumber>
+      <projectname>Two 18-Ft. Aluminum Prop Boats</projectname>
+    </project>
+    <project>
+      <projectnumber>32</projectnumber>
+      <projectname>Reissue of RCMP - Two 18 Ft boats</projectname>
+    </project>
+    <project>
+      <projectnumber>33</projectnumber>
+      <projectname>One 16' Jet Boat Inspection</projectname>
+    </project>
+    <project>
+      <projectnumber>34</projectnumber>
+      <projectname>Pelee Island Ferry Service</projectname>
+    </project>
+    <project>
+      <projectnumber>35</projectnumber>
+      <projectname>15 AEQ Cable Ferry</projectname>
+    </project>
+  </client>
+
+
+
+</bib>
